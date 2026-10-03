@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240">
+  <defs>
+    <linearGradient id="heavyChain" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="lightChain" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <!-- Fc Stem (Heavy Chains) -->
+  <rect x="86" y="130" width="12" height="95" rx="6" fill="url(#heavyChain)" stroke="#1e3a8a" stroke-width="2.5" />
+  <rect x="102" y="130" width="12" height="95" rx="6" fill="url(#heavyChain)" stroke="#1e3a8a" stroke-width="2.5" />
+  <!-- Left Fab Arm (Heavy Chain part) -->
+  <path d="M 90,135 L 40,40" stroke="url(#heavyChain)" stroke-width="14" stroke-linecap="round" />
+  <!-- Right Fab Arm (Heavy Chain part) -->
+  <path d="M 110,135 L 160,40" stroke="url(#heavyChain)" stroke-width="14" stroke-linecap="round" />
+  <!-- Left Light Chain -->
+  <path d="M 70,110 L 25,30" stroke="url(#lightChain)" stroke-width="12" stroke-linecap="round" />
+  <!-- Right Light Chain -->
+  <path d="M 130,110 L 175,30" stroke="url(#lightChain)" stroke-width="12" stroke-linecap="round" />
+  <!-- Antigen-binding tip markers (Paratopes) -->
+  <rect x="18" y="20" width="28" height="10" rx="4" fill="#f59e0b" stroke="#b45309" stroke-width="1.5" transform="rotate(-40 32 25)" />
+  <rect x="154" y="20" width="28" height="10" rx="4" fill="#f59e0b" stroke="#b45309" stroke-width="1.5" transform="rotate(40 168 25)" />
+  <!-- Disulfide bond bridges -->
+  <line x1="86" y1="155" x2="102" y2="155" stroke="#eab308" stroke-width="3" stroke-linecap="round" />
+  <line x1="86" y1="175" x2="102" y2="175" stroke="#eab308" stroke-width="3" stroke-linecap="round" />
+  <line x1="54" y1="80" x2="62" y2="85" stroke="#eab308" stroke-width="2.5" />
+  <line x1="146" y1="80" x2="138" y2="85" stroke="#eab308" stroke-width="2.5" />
+</svg>

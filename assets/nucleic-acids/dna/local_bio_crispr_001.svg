@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220">
+  <defs>
+    <linearGradient id="cas9Lobe1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+    <linearGradient id="cas9Lobe2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#4f46e5" />
+    </linearGradient>
+  </defs>
+  <!-- Cas9 Recognition (REC) Lobe -->
+  <path d="M 90,50 C 40,50 30,110 50,150 C 70,190 130,190 150,160 C 160,140 140,80 120,60 Z" fill="url(#cas9Lobe1)" stroke="#0369a1" stroke-width="3.5" opacity="0.95" />
+  <!-- Cas9 NUC Lobe -->
+  <path d="M 150,60 C 170,40 230,45 250,90 C 270,135 240,180 190,180 C 150,180 140,140 150,110 Z" fill="url(#cas9Lobe2)" stroke="#3730a3" stroke-width="3.5" opacity="0.95" />
+  <!-- Unwound Target DNA -->
+  <path d="M 20,110 L 100,110 Q 150,85 200,85 L 300,85" fill="none" stroke="#f59e0b" stroke-width="5" stroke-linecap="round" />
+  <path d="M 20,125 L 100,125 Q 150,145 200,145 L 300,145" fill="none" stroke="#d97706" stroke-width="5" stroke-linecap="round" />
+  <!-- Guide RNA (sgRNA) loop -->
+  <path d="M 110,125 L 190,125 C 215,125 225,95 210,80 C 195,65 180,85 190,105" fill="none" stroke="#ef4444" stroke-width="4.5" stroke-linecap="round" />
+  <!-- Cleavage site scissors indicator -->
+  <circle cx="175" cy="115" r="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="2" />
+  <line x1="170" y1="110" x2="180" y2="120" stroke="#b91c1c" stroke-width="2" />
+  <line x1="170" y1="120" x2="180" y2="110" stroke="#b91c1c" stroke-width="2" />
+</svg>

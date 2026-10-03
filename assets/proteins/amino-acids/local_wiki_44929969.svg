@@ -1,0 +1,55 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="245.08 295.22 45.56 46.78" preserveAspectRatio="xMidYMid" width="100%" height="100%">
+  <clipPath id="17">
+    <rect x="0.3" y="0.3" width="539.4" height="719.15" />
+  </clipPath>
+  <g id="drawing">
+    <rect x="245.08" y="295.22" width="100%" height="100%" fill="rgb(255, 255, 255)" />
+    <g id="page" clip-path="url(#17)">
+      <g>
+        <text xml:space="preserve" text-anchor="start" text-rendering="geometricPrecision">
+          <tspan x="253.16" y="339.68" font-family="Arial" dy="-4.07" font-size="7.5" fill="rgb(0, 0, 0)">+</tspan>
+          <tspan font-family="Arial" dy="4.07" font-size="10" fill="rgb(0, 0, 0)">NH</tspan>
+          <tspan font-family="Arial" dy="2.26" font-size="7.5" fill="rgb(0, 0, 0)">3</tspan>
+        </text>
+      </g>
+      <g>
+        <text xml:space="preserve" text-anchor="start" text-rendering="geometricPrecision">
+          <tspan x="245.08" y="318.08" font-family="Arial" font-size="10" fill="rgb(0, 0, 255)">R</tspan>
+        </text>
+      </g>
+      <g>
+        <text xml:space="preserve" text-anchor="start" text-rendering="geometricPrecision">
+          <tspan x="271.02" y="303.68" font-family="Arial" font-size="10" fill="rgb(0, 0, 0)">O</tspan>
+        </text>
+      </g>
+      <g>
+        <text xml:space="preserve" text-anchor="start" text-rendering="geometricPrecision">
+          <tspan x="282.84" y="324.16" font-family="Arial" font-size="10" fill="rgb(0, 0, 0)">O</tspan>
+        </text>
+      </g>
+      <g id="WedgeBegin">
+        <path d="M260.85 321.55 L260.85 321.55 L261.16 321.38 L261.47 321.55 L262.66 331.9 L261.16 331.9 L259.66 331.9 Z" stroke="rgb(0, 0, 0)" stroke-width="0" fill-rule="evenodd" stroke-linejoin="miter" fill="rgb(0, 0, 0)" shape-rendering="geometricPrecision" />
+      </g>
+      <g id="Solid">
+        <path d="M273.33 314.01 L273.33 314.01 L273.63 314.18 L273.63 314.53 L261.47 321.55 L261.16 321.38 L261.16 321.03 Z" stroke="rgb(0, 0, 0)" stroke-width="0" fill-rule="evenodd" stroke-linejoin="miter" fill="rgb(0, 0, 0)" shape-rendering="geometricPrecision" />
+      </g>
+      <g id="Solid">
+        <path d="M261.16 321.03 L261.16 321.03 L261.16 321.38 L260.85 321.55 L251.74 316.29 L251.89 316.03 L252.04 315.77 Z" stroke="rgb(0, 0, 255)" stroke-width="0" fill-rule="evenodd" stroke-linejoin="miter" fill="rgb(0, 0, 255)" shape-rendering="geometricPrecision" />
+      </g>
+      <g id="Solid">
+        <path d="M273.93 314.01 L273.93 314.01 L273.63 314.18 L273.33 314.01 L273.33 305.5 L273.63 305.5 L273.93 305.5 Z" stroke="rgb(0, 0, 0)" stroke-width="0" fill-rule="evenodd" stroke-linejoin="miter" fill="rgb(0, 0, 0)" shape-rendering="geometricPrecision" />
+        <line x1="276.22" y1="312.68" x2="276.22" y2="310.18" stroke="rgb(0, 0, 0)" stroke-width="0.6" shape-rendering="auto" />
+        <line x1="276.22" y1="308" x2="276.22" y2="305.5" stroke="rgb(0, 0, 0)" stroke-width="0.6" shape-rendering="auto" />
+      </g>
+      <g id="Solid">
+        <path d="M273.63 314.53 L273.63 314.53 L273.63 314.18 L273.93 314.01 L282.16 318.76 L282.01 319.02 L281.86 319.28 Z" stroke="rgb(0, 0, 0)" stroke-width="0" fill-rule="evenodd" stroke-linejoin="miter" fill="rgb(0, 0, 0)" shape-rendering="geometricPrecision" />
+        <line x1="276.22" y1="312.68" x2="278.39" y2="313.93" stroke="rgb(0, 0, 0)" stroke-width="0.6" shape-rendering="auto" />
+        <line x1="281.15" y1="315.53" x2="283.31" y2="316.78" stroke="rgb(0, 0, 0)" stroke-width="0.6" shape-rendering="auto" />
+      </g>
+      <g id="Charge15">
+        <circle cx="280.88" cy="310.13" r="3.33333333333333" stroke="rgb(0, 0, 0)" stroke-width="0.48" fill="none" />
+        <line x1="278.91" y1="310.13" x2="282.85" y2="310.13" stroke="rgb(0, 0, 0)" stroke-width="0.48" shape-rendering="auto" />
+      </g>
+    </g>
+  </g>
+</svg>

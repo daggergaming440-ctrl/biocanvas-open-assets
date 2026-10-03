@@ -1,0 +1,46 @@
+﻿
+<svg preserveAspectRatio="xMidYMid" version="1.0" viewBox="0 0 190.6 70.72" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-4,-6)" font-family="Arial" font-weight="400" letter-spacing="0px" word-spacing="0px">
+  <g font-size="16.75px">
+   <text x="40.136234" y="50.54166" style="line-height:125%" xml:space="preserve"><tspan x="40.136234" y="50.54166"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400">P</tspan></tspan></text>
+   <text x="53.736488" y="72.511299" style="line-height:125%" xml:space="preserve"><tspan x="53.736488" y="72.511299"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400">O</tspan></tspan></text>
+   <text x="28.628328" y="29.618195" style="line-height:125%" xml:space="preserve"><tspan x="28.628328" y="29.618195"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400">O</tspan></tspan></text>
+   <text x="15.028078" y="29.618195" style="line-height:125%" xml:space="preserve"><tspan x="15.028078" y="29.618195"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400">H</tspan></tspan></text>
+   <text x="20.258944" y="64.141914" style="line-height:125%" xml:space="preserve"><tspan x="20.258944" y="64.141914"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400">O</tspan></tspan></text>
+   <text x="6.6586914" y="64.141914" style="line-height:125%" xml:space="preserve"><tspan x="6.6586914" y="64.141914"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400">H</tspan></tspan></text>
+   <text x="60.013527" y="40.079929" style="line-height:125%" xml:space="preserve"><tspan x="60.013527" y="40.079929"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400">O</tspan></tspan></text>
+  </g>
+  <text x="164.63084" y="19.156464" font-size="13.62px" style="line-height:125%" xml:space="preserve"><tspan x="164.63084" y="19.156464"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="13.62px" font-weight="400">H</tspan></tspan></text>
+  <g font-size="16.75px">
+   <text x="180.32344" y="49.495487" style="line-height:125%" xml:space="preserve"><tspan x="180.32344" y="49.495487"><tspan dx="0" dy="0" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400">O</tspan></tspan></text>
+   <text x="145.79973" y="69.37278" style="line-height:125%" xml:space="preserve"><tspan x="145.79973" y="69.37278" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400"><tspan dx="0" dy="0">O</tspan><tspan dx="2.6639121" dy="0">H</tspan></tspan></text>
+   <text x="129.06096" y="20.202637" style="line-height:125%" xml:space="preserve"><tspan x="129.06096" y="20.202637" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400"><tspan dx="0" dy="0">O</tspan><tspan dx="0" dy="0">H</tspan></tspan></text>
+   <text x="111.27602" y="69.37278" style="line-height:125%" xml:space="preserve"><tspan x="111.27602" y="69.37278" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400"><tspan dx="0" dy="0">O</tspan><tspan dx="2.6639121" dy="0">H</tspan></tspan></text>
+   <text x="94.537247" y="20.202637" style="line-height:125%" xml:space="preserve"><tspan x="94.537247" y="20.202637" fill="#000000" font-family="Arial" font-size="16.75px" font-weight="400"><tspan dx="0" dy="0">O</tspan><tspan dx="0" dy="0">H</tspan></tspan></text>
+  </g>
+ </g>
+ <g transform="translate(-4,-6)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".85px">
+  <path d="m51.64 51 3.335 4.969" />
+  <path d="m48.51 53.09 3.335 4.969" />
+  <path d="m40.33 34.65-1.765-3.531" />
+  <path d="m38.7 50.74-3.335 2.419" />
+  <path d="m52.95 41.98 4.25-2.158" />
+  <path d="m74.59 40.08 8.892 5.165" />
+  <path d="m100.7 35.31-17.26 9.939" />
+  <path d="m118 45.25-17.26-9.939" />
+  <path d="m118 45.25 17.2-9.939" />
+  <path d="m135.2 35.31 17.26 9.939" />
+  <path d="m152.5 45.25 17.26-9.939" />
+  <path d="m169.7 35.31v-13.86" />
+  <path d="m177 41.58-8.173-4.773" />
+  <path d="m178.8 38.45-8.239-4.708" />
+  <path d="m153.2 48.71h-1.438" />
+  <path d="m153.8 52.18h-2.746" />
+  <path d="m134.7 31.84h0.9154" />
+  <path d="m134.3 28.38h1.831" />
+  <path d="m133.8 24.91h2.746" />
+  <path d="m118.7 48.71h-1.373" />
+  <path d="m119.4 52.18h-2.812" />
+ </g>
+ <path d="m97.1 29.31h-0.7846l-1.438-13.53h3.596z" fill-rule="evenodd" />
+</svg>

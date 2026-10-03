@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280">
+  <defs>
+    <linearGradient id="tankLiquid" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fed7aa" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#f97316" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+  <!-- Motor top -->
+  <rect x="75" y="15" width="50" height="35" rx="5" fill="#475569" stroke="#1e293b" stroke-width="3" />
+  <rect x="94" y="50" width="12" height="18" fill="#64748b" />
+  <!-- Glass Vessel Outer Body -->
+  <path d="M 35,68 L 165,68 C 175,68 180,75 180,85 L 180,220 C 180,245 160,260 100,260 C 40,260 20,245 20,220 L 20,85 C 20,75 25,68 35,68 Z" fill="#f8fafc" stroke="#334155" stroke-width="4" />
+  <!-- Broth Liquid Inside -->
+  <path d="M 24,120 L 176,120 L 176,218 C 176,240 156,254 100,254 C 44,254 24,240 24,218 Z" fill="url(#tankLiquid)" />
+  <!-- Impeller Shaft -->
+  <line x1="100" y1="50" x2="100" y2="230" stroke="#475569" stroke-width="6" stroke-linecap="round" />
+  <!-- Impeller Blades -->
+  <rect x="65" y="160" width="70" height="12" rx="4" fill="#1e293b" />
+  <rect x="65" y="210" width="70" height="12" rx="4" fill="#1e293b" />
+  <!-- Aeration bubbles -->
+  <circle cx="90" cy="190" r="3" fill="#ffffff" opacity="0.8" />
+  <circle cx="115" cy="175" r="4" fill="#ffffff" opacity="0.8" />
+  <circle cx="85" cy="145" r="3" fill="#ffffff" opacity="0.8" />
+  <circle cx="120" cy="135" r="3.5" fill="#ffffff" opacity="0.8" />
+</svg>

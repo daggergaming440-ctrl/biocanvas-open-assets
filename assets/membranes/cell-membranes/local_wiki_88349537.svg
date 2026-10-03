@@ -1,0 +1,1121 @@
+﻿
+<svg:svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="svg2841" x="0" y="0" version="1.1" viewBox="0 0 727.8 559.2">
+  <svg:defs id="defs2845">
+    <svg:radialGradient id="Vesicle_Shadow_1_" cx="356.4626" cy="280.4114" r="192.6964" gradientUnits="userSpaceOnUse">
+      <svg:stop id="stop2" offset=".5816" stop-color="#fff" />
+      <svg:stop id="stop4" offset="1" stop-color="#e5f4f2" />
+    </svg:radialGradient>
+    <svg:radialGradient id="Vesicle_Shadow_1_-1" cx="356.4626" cy="280.4114" r="192.6964" gradientUnits="userSpaceOnUse">
+      <svg:stop id="stop2-7" offset=".5816" stop-color="#fff" />
+      <svg:stop id="stop4-7" offset="1" stop-color="#e5f4f2" />
+    </svg:radialGradient>
+    <svg:radialGradient xlink:href="#Vesicle_Shadow_1_-8" id="radialGradient1739" cx="356.46259" cy="280.41141" r="192.6964" gradientTransform="matrix(1.09836 0 0 1.09716 -75.928772 -11.899682)" gradientUnits="userSpaceOnUse" />
+    <svg:radialGradient id="Vesicle_Shadow_1_-8" cx="356.46259" cy="280.41141" r="192.6964" gradientUnits="userSpaceOnUse">
+      <svg:stop id="stop2-3" offset=".5816" stop-color="#fff" />
+      <svg:stop id="stop4-5" offset="1" stop-color="#e5f4f2" />
+    </svg:radialGradient>
+    <svg:marker id="Arrow1Lstart" orient="auto" overflow="visible" refX="0" refY="0">
+      <svg:path id="path2773" fill-rule="evenodd" stroke="#000" stroke-width=".8pt" d="m10 0 4-4L0 0l14 4-4-4z" />
+    </svg:marker>
+    <svg:marker id="Tail" orient="auto" overflow="visible" refX="0" refY="0">
+      <svg:g id="g2520" fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8" transform="scale(-1.2)">
+        <svg:path id="path2735" d="M-3.8048674-3.9585227.54352094 0" />
+        <svg:path id="path2737" d="M-1.2866832-3.9585227 3.0617053 0" />
+        <svg:path id="path2739" d="M1.3053582-3.9585227 5.6537466 0" />
+        <svg:path id="path2741" d="M-3.8048674 4.1775838.54352094.21974226" />
+        <svg:path id="path2743" d="M-1.2866832 4.1775838 3.0617053.21974226" />
+        <svg:path id="path2745" d="M1.3053582 4.1775838 5.6537466.21974226" />
+      </svg:g>
+    </svg:marker>
+    <svg:marker id="Arrow1Lstart-2" orient="auto" overflow="visible" refX="0" refY="0">
+      <svg:path id="path2773-5" fill-rule="evenodd" stroke="#000" stroke-width=".8pt" d="m10 0 4-4L0 0l14 4-4-4z" />
+    </svg:marker>
+    <svg:marker id="Tail-0" orient="auto" overflow="visible" refX="0" refY="0">
+      <svg:g id="g2520-4" fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-width=".8" transform="scale(-1.2)">
+        <svg:path id="path2735-3" d="M-3.8048674-3.9585227.54352094 0" />
+        <svg:path id="path2737-5" d="M-1.2866832-3.9585227 3.0617053 0" />
+        <svg:path id="path2739-5" d="M1.3053582-3.9585227 5.6537466 0" />
+        <svg:path id="path2741-2" d="M-3.8048674 4.1775838.54352094.21974226" />
+        <svg:path id="path2743-5" d="M-1.2866832 4.1775838 3.0617053.21974226" />
+        <svg:path id="path2745-8" d="M1.3053582 4.1775838 5.6537466.21974226" />
+      </svg:g>
+    </svg:marker>
+    <svg:linearGradient osb:paint="gradient" id="linearGradient2810">
+      <svg:stop id="stop2806" offset="0" stop-color="#b1ddc6" stop-opacity="1" />
+      <svg:stop id="stop2808" offset="1" stop-color="#b1ddc6" stop-opacity="0" />
+    </svg:linearGradient>
+    <svg:linearGradient xlink:href="#linearGradient2810" id="linearGradient2820" x1="203.79811" x2="532.91058" y1="287.81939" y2="287.81939" gradientUnits="userSpaceOnUse" />
+  </svg:defs>
+  <svg:path id="Vesicle_Shadow" fill="url(#radialGradient1739)" stroke-width="1.0977596" d="M315.63654 507.16652c-116.8655 0-211.65396-94.68487-211.65396-211.42265 0-116.73779 94.67863-211.422653 211.65396-211.422653 116.97533 0 211.65396 94.684863 211.65396 211.422653 0 116.07948-93.58027 210.21577-209.45724 211.42265" />
+  <svg:path id="host_protein_13_" fill="#a7a9ac" stroke-width="1.0977596" d="M526.08231 278.95731c-.87868.32915-1.97704.65829-2.85573.43886-.65902-.21943-1.2082-.65829-1.75738-1.20687-.98852-.76802-2.08688-1.42631-3.29508-1.86518-1.42787-.54857-3.18524-.87772-4.61311-.32914-1.5377.43886-2.7459 1.86517-2.7459 3.51091s1.42787 3.07204 3.07541 3.62062c1.64754.54858 3.29508.32915 5.05245.10972 1.75738-.21943 3.40492-.43886 5.05246-.10972.76885.21944 1.5377.54858 2.30656.54858 1.09836.10972 2.08688-.32914 3.18524-.76801 2.08688-.76801 4.2836-1.42631 6.48032-1.97488 1.2082-.32915 2.52623-.54858 3.84426-.43887.87869.10972 1.75738.21943 2.63607.54858 2.41639.6583 4.72294 1.42631 7.0295 2.41375.65902.21943 1.31803.54858 1.86721.43887.65902-.10972 1.2082-.6583 1.86721-1.09716 2.85574-2.19432 6.7-2.08461 10.10492-3.07205.65901-.21943 1.31803-.43886 1.86721-.87773.54918-.43886.87869-1.09716 1.31803-1.75545.65902-1.09716 1.2082-2.63319.32951-3.51091-.43935-.43887-1.09836-.54858-1.53771-.98745-.98852-.98744.10984-2.7429-.3295-4.05949-.43935-1.31659-2.08689-1.64574-3.40492-1.42631-1.31803.21944-2.63606.76802-3.9541.6583-.87868-.10972-1.64754-.43886-2.52622-.54858-1.09836-.10972-2.08689.21943-3.18525.6583-1.31803.43886-2.7459.98744-3.62459 2.19432-1.09836 1.64573-.65901 4.05949-1.97704 5.48579-1.09836 1.20688-3.07541 1.09716-4.72295 1.09716-5.38196-.21943-10.54426.54858-15.48688 2.30404z" />
+  <svg:path id="host_protein_12_" fill="#a7a9ac" stroke-width="1.0977596" d="M192.73007 121.51491c.76886.6583 1.53771 1.31659 1.75738 2.30403.10984.6583 0 1.42631-.10984 2.08461-.21967 1.20687-.21967 2.52346 0 3.73034.21968 1.53602.76886 3.18176 1.97705 4.16921 1.2082 1.09716 2.96557 1.53602 4.39344.65829 1.42787-.87773 1.97705-2.7429 1.64754-4.38864-.32951-1.64574-1.31803-3.07204-2.41639-4.38863-.98853-1.3166-2.08689-2.7429-2.52623-4.27893-.21967-.76801-.32951-1.53602-.65902-2.19432-.43934-.98744-1.31803-1.64573-2.19671-2.41375-1.75738-1.4263-3.29508-2.96233-4.83279-4.60807-.87869-.98744-1.64754-1.97488-2.30655-3.07204-.43935-.76802-.65902-1.64574-.87869-2.52347-.65902-2.41375-1.09836-4.8275-1.42787-7.350965-.10984-.6583-.21967-1.31659-.54918-1.86517-.43934-.54858-1.2082-.76801-1.86721-1.09716-3.29508-1.42631-5.05246-4.8275-7.57869-7.241254-.43934-.54858-.98852-.987443-1.64754-1.206875-.65901-.219432-1.42786-.219432-2.08688-.329148-1.2082 0-2.85574.219432-3.18524 1.426307-.10984.54858.10983 1.20688-.10984 1.75546-.43934 1.31659-2.41639 1.20687-3.40492 2.30403-.87868.98744-.43934 2.63318.43935 3.73034.87869 1.09716 1.97705 1.86517 2.52623 3.18177.3295.768005.43934 1.645735.76885 2.413745.43934.98744 1.20819 1.75545 2.08688 2.41375 1.09836.98744 2.30656 1.97489 3.62459 2.0846 1.97705.10972 3.84426-1.42631 5.82131-.98744 1.64754.43886 2.52623 2.0846 3.29508 3.62062 2.30655 4.49836 5.60163 8.66756 9.44589 12.06876z" />
+  <svg:path id="host_protein_11_" fill="#a7a9ac" stroke-width="1.0977596" d="M161.31698 441.99522c.76885-.54858 1.64754-1.20688 1.97705-2.0846.21967-.6583.10983-1.42631.10983-2.08461-.10983-1.20687 0-2.52346.32951-3.73034.32951-1.53602 1.09836-3.07205 2.30656-4.05949 1.20819-.98744 3.18524-1.20687 4.39344-.32915 1.42786.98745 1.75737 2.96233 1.20819 4.60807-.54918 1.64574-1.64754 2.96233-2.7459 4.16921-1.09836 1.20687-2.30655 2.52347-2.96557 4.05949-.32951.76801-.43934 1.53602-.87869 2.19432-.54918.98744-1.5377 1.53602-2.41639 2.19432-1.86721 1.31659-3.62459 2.63318-5.27213 4.1692-.98852.87773-1.86721 1.75546-2.52622 2.85262-.43935.76801-.76886 1.64574-1.09836 2.52347-.87869 2.30403-1.53771 4.71778-2.08689 7.13153-.10983.6583-.32951 1.3166-.76885 1.75546-.54918.54858-1.2082.65829-1.97705.87773-3.40491 1.09716-5.4918 4.27892-8.2377 6.58295-.54918.43887-1.09836.87773-1.75737 1.09716-.65902.21944-1.42787.10972-2.19672.10972-1.2082-.10972-2.85574-.43886-3.07541-1.75546-.10984-.54858.21967-1.20687 0-1.75545-.32951-1.31659-2.30656-1.42631-3.18525-2.52347-.76885-1.09716-.21967-2.63318.76886-3.62062.87868-.98745 2.19672-1.75546 2.85573-2.85262.43935-.76801.54918-1.64574.98853-2.41375.54918-.98744 1.42786-1.64574 2.30655-2.19432 1.2082-.87773 2.41639-1.75546 3.84426-1.64574 1.97705 0 3.73443 1.75546 5.71147 1.53602 1.64754-.21943 2.63607-1.86517 3.51476-3.29147 3.0754-4.71779 6.69999-8.55785 10.87376-11.52018z" />
+  <svg:path id="host_protein_10_" fill="#a7a9ac" stroke-width="1.0977596" d="M466.00203 145.87185c-.76886.54858-1.64754 1.20688-1.86722 2.19432-.21967.6583-.10983 1.42631 0 2.0846.10984 1.20688.10984 2.52347-.21967 3.73035-.32951 1.53602-.98852 3.07204-2.19672 4.05949-1.20819.98744-3.07541 1.31659-4.39344.43886-1.42787-.98744-1.75737-2.96233-1.31803-4.49835.43934-1.53603 1.5377-2.96233 2.63606-4.27893 1.09836-1.31659 2.30656-2.52346 2.85574-4.1692.21967-.76801.43934-1.53603.76885-2.19432.54918-.98744 1.42787-1.64574 2.30656-2.19432 1.75737-1.31659 3.51475-2.7429 5.16229-4.27892.87869-.87773 1.86721-1.86517 2.41639-2.96233.43935-.76801.76885-1.64574.98853-2.52347.76885-2.30404 1.42786-4.71779 1.86721-7.24125.10983-.6583.21967-1.31659.65901-1.86517.43935-.54858 1.2082-.6583 1.86721-.87773 3.29508-1.20688 5.38197-4.38864 8.01803-6.80239.54918-.43887 1.09836-.87773 1.75738-1.09716.65901-.21943 1.42787-.21943 2.08688-.10972 1.2082.10972 2.85574.43887 3.07541 1.64574.10984.54858-.10984 1.20688 0 1.75546.32951 1.31659 2.41639 1.4263 3.18524 2.52346.87869 1.09716.21968 2.63319-.65901 3.62063-.87869.98744-2.08689 1.75546-2.7459 2.96233-.43935.76801-.54918 1.64574-.87869 2.41375-.54918.98745-1.31803 1.64574-2.19672 2.30404-1.09836.87773-2.41639 1.75545-3.84426 1.75545-1.97705 0-3.73442-1.75545-5.71147-1.31659-1.64754.32915-2.63607 1.97489-3.51475 3.4012-2.41639 4.38863-6.04098 8.33841-10.10491 11.52017z" />
+  <svg:path id="host_protein_9_" fill="#a7a9ac" stroke-width="1.0977596" d="M341.00866 537.77725c.76886-1.75545 1.75738-3.29148 2.30656-5.04693.21967-.76802.32951-1.64574.32951-2.41375 0-.76802 0-1.64574-.32951-2.41376-.65902-1.53602-2.19672-2.63318-3.07541-4.05949-.32951-.65829-.54918-1.53602-.65901-2.30403-.21968-1.64574-.21968-3.4012.10983-5.04694.10984-.54857.32951-1.31659 1.2082-1.4263.54918 0 .87869.54858.98852 1.09716.43935 2.0846.98853 4.05949 1.42787 6.14409.10984.6583.32951 1.42631.76885 1.97489.76885.98744 2.19672 1.31659 3.07541 2.30403.54918.6583.87869 1.42631 1.09836 2.19432.32951 1.20688.65902 2.63319.32951 3.84006-.10984.54858-.43935.98744-.54918 1.53602-.21967 1.42631.21967 2.52347.87869 4.16921.3295.76801 1.20819 1.97489 1.20819 3.51091 0 1.75546-.54918 3.51091-2.19672 4.27892-.43934.21944-.98852.32915-1.5377.32915-1.31803.10972-2.63607.10972-3.84426-.43886-1.31803-.6583-2.19672-2.19432-2.41639-3.73035-.10984-1.53602.3295-3.07204.87868-4.49835z" />
+  <svg:path id="host_protein_8_" fill="#a7a9ac" stroke-width="1.0977596" d="M474.02005 110.65303c-1.64754.76801-3.51475 1.31659-5.05245 2.30403-.65902.43887-1.31803.98745-1.86721 1.64574-.54918.54858-1.09836 1.20688-1.31804 1.97489-.54918 1.64574 0 3.4012-.43934 5.04694-.21967.76801-.54918 1.53602-.98852 2.19431-.98853 1.42631-2.08689 2.63319-3.40492 3.73035-.43934.32915-1.09836.76801-1.75738.21943-.43934-.32915-.21967-.98744 0-1.42631.98853-1.86517 1.97705-3.73034 2.96558-5.59551.3295-.6583.65901-1.31659.76885-1.97489.10983-1.31659-.76885-2.52347-.76885-3.73034 0-.87773.3295-1.64574.65901-2.41375.54918-1.20688 1.2082-2.41375 2.30656-3.07205.43934-.32915.98852-.43886 1.42787-.76801 1.09836-.87773 1.5377-2.0846 2.08688-3.73034.21967-.76802.43934-2.30404 1.42787-3.51091 1.09836-1.3166 2.7459-2.304035 4.39344-1.755455.54918.10972.98852.438855 1.42786.768005 1.09836.76801 2.08689 1.64574 2.52623 2.85262.54918 1.4263.21967 3.07204-.65901 4.38863-1.09836 1.3166-2.41639 2.19432-3.73443 2.85262z" />
+  <svg:path id="host_protein_7_" fill="#a7a9ac" stroke-width="1.0977596" d="M101.23669 413.57879c1.09836-1.53603 1.86721-3.18177 3.18524-4.60807.54918-.6583 1.2082-1.09716 1.86722-1.53603.65901-.43886 1.42786-.76801 2.19672-.98744 1.64754-.32915 3.40491.54858 5.05245.43886.76885 0 1.53771-.32914 2.30656-.65829 1.5377-.6583 2.96557-1.64574 4.2836-2.7429.43935-.32915.98853-.98744.54918-1.75546-.21967-.43886-.98852-.43886-1.42787-.21943-1.97704.6583-3.95409 1.31659-5.93114 1.97489-.65902.21943-1.31803.43886-2.08688.32915-1.31804-.10972-2.30656-1.20688-3.62459-1.42631-.87869-.21943-1.64754 0-2.52623.21943-1.2082.32915-2.52623.76801-3.40492 1.75546-.3295.43886-.65901.87772-.98852 1.20687-1.098355.98745-2.306555 1.09716-3.954095 1.42631-.76885.10972-2.30655 0-3.62458.76801-1.53771.87773-2.7459 2.30404-2.52623 4.05949.10984.54858.21967 1.09716.43934 1.53603.54918 1.20687 1.2082 2.30403 2.30656 2.96233 1.31803.76801 2.96557.76801 4.39344.10971 1.42787-.43886 2.636055-1.64574 3.514745-2.85261z" />
+  <svg:path id="host_protein_6_" fill="#a7a9ac" stroke-width="1.0977596" d="M83.223594 220.03984c1.86721-.32915 3.62459-1.09716 5.4918-1.20688.878691-.10971 1.647541 0 2.526221.10972.76886.10972 1.53771.32915 2.30656.76801 1.42787.98744 2.08688 2.7429 3.40492 3.84006.65901.54858 1.31803.87773 2.08688 1.09716 1.647535.54858 3.295075.87773 4.942615.87773.54918 0 1.31803 0 1.64754-.87773.10984-.54858-.43934-.98744-.87869-1.20688-1.86721-.87772-3.84426-1.75545-5.711465-2.63318-.65902-.32915-1.31803-.6583-1.75738-1.09716-.87868-.98744-.87868-2.41375-1.64754-3.51091-.43934-.6583-1.20819-1.09716-1.97704-1.53602-1.09836-.6583-2.4164-1.20688-3.73443-1.09716-.54918 0-1.098361.21943-1.647541.21943-1.42786 0-2.41639-.76801-3.84426-1.75546-.65901-.43886-1.75737-1.53602-3.18524-1.86517-1.75738-.43886-3.62459-.21943-4.61311 1.20688-.32951.43886-.54918.98744-.65902 1.42631-.43934 1.20687-.65901 2.52346-.32951 3.84005.43935 1.42631 1.64754 2.63319 3.07541 3.07205 1.42787.6583 3.07541.54858 4.50328.32915z" />
+  <svg:path id="host_protein_5_" fill="#a7a9ac" stroke-width="1.0977596" d="M513.2315 439.03289c-.76885-1.75546-1.20819-3.51091-2.19672-5.15665-.43934-.6583-.98852-1.31659-1.5377-1.97489-.54918-.54858-1.2082-1.09716-1.97705-1.42631-1.5377-.65829-3.40491-.10971-5.05245-.65829-.76886-.21943-1.42787-.6583-2.08689-1.09716-1.42787-.98744-2.63606-2.19432-3.62459-3.62063-.3295-.43886-.76885-1.09716-.21967-1.75545.32951-.43887.98853-.21943 1.42787.10971 1.86721 1.09716 3.62459 2.08461 5.4918 3.18177.65902.32914 1.2082.76801 1.97705.76801 1.31803.10971 2.52623-.6583 3.84426-.6583.87869 0 1.64754.32915 2.41639.76801 1.20819.54858 2.30655 1.3166 2.96557 2.41375.21967.43887.43934.98745.76885 1.42631.87869 1.09716 1.97705 1.53603 3.62459 2.19432.76885.21943 2.30656.54858 3.40492 1.53602 1.31803 1.20688 2.19672 2.85262 1.64754 4.49836-.21968.54858-.43935.98744-.76886 1.42631-.76885.98744-1.75737 1.97488-2.96557 2.41375-1.42787.54858-3.07541.10971-4.39344-.76801-1.20819-.87773-2.08688-2.19432-2.7459-3.62063z" />
+  <svg:g id="GP41_1_" transform="matrix(1.09836 0 0 1.09716 -76.929462 -17.399425)">
+    <svg:linearGradient id="SVGID_148_" x1="358.6777" x2="358.6777" y1="74.818001" y2="65.852501" gradientUnits="userSpaceOnUse">
+      <svg:stop id="stop1292" offset="0" stop-color="#069393" />
+      <svg:stop id="stop1294" offset="1" stop-color="#03807f" />
+    </svg:linearGradient>
+    <svg:path id="path1297" fill="url(#SVGID_148_)" d="M362.3 92.8c.4-1.3.7-2.7.6-4-.2-2.1-1.6-3.9-2.1-5.9-.4-1.9-.1-3.8.1-5.7.3-2.7.2-5.4.2-8.1 0-.9 0-1.8.3-2.6.2-.5.4-.9.6-1.3 1-2.1 1.1-4.6 1.1-6.9 0-1.3 0-2.7-.7-3.8-.1-.2-.3-.4-.5-.5-.2-.1-.5-.2-.8-.2-1.8 0-3.6.4-5.2 1.4-.2.1-.4.3-.6.5-.2.2-.3.5-.4.8-.8 2.3.7 4.7 1.6 7.1.6 1.6 1 3.4 1 5.1 0 1.2-.1 2.3-.2 3.4-.3 3.5-.3 7-.2 10.5 0 .4 0 .8-.1 1.1-.1.5-.4.8-.7 1.2-1.2 1.6-2.2 3.5-2.2 5.5 0 1.5.5 2.9 1.2 4.2.2.4.4.8.8 1 .5.4 1.3.4 1.9.4 1.1 0 2.2-.1 3-.8.8-.6 1-1.5 1.3-2.4z" />
+    <svg:linearGradient id="SVGID_149_" x1="358.43829" x2="358.43829" y1="60.547901" y2="56.573601" gradientUnits="userSpaceOnUse">
+      <svg:stop id="stop1299" offset="0" stop-color="#159995" />
+      <svg:stop id="stop1301" offset="1" stop-color="#148d89" />
+    </svg:linearGradient>
+    <svg:path id="path1304" fill="url(#SVGID_149_)" d="M375.7 91.8c0 1-.3 1.9-.7 2.8-.3.6-.6 1.2-1.2 1.6-.7.4-1.6.3-2.3 0-1.7-.7-3.1-2.2-3.6-4-.5-1.7-.2-3.5-.8-5.1-.3-.7-.7-1.3-1-2-.3-.7-.4-1.5-.6-2.2-1.3-5.7-.8-10.3-3.9-15.2-.5-.8-1-1.6-1.7-2.1-.3-.3-.7-.5-1.1-.7-.4.2-.7.4-1.1.7-.7.6-1.2 1.3-1.7 2.1-3.1 4.9-3.1 10-4.4 15.7-.2.7-.3 1.5-.6 2.2-.3.7-.7 1.3-1 2-.7 1.6-.4 3.4-.8 5.1-.5 1.8-1.9 3.3-3.6 4-.7.3-1.6.4-2.3 0-.6-.3-.9-1-1.2-1.6-.4-.9-.8-1.8-.7-2.8 0-1.3.7-2.5 1.4-3.6.9-1.4 1.8-2.9 2.6-4.3.2-.4.5-.7.6-1.1.2-.4.2-.9.4-1.3 1-4.5 1.4-7.6 3.5-11.9.7-1.4 1.9-2.5 2.4-3.9.7-2.1.5-4.4.3-6.6-.1-1.4-.3-3.9-.4-5.3h13.1c-.1 1.4-.3 3.9-.4 5.3-.2 2.2-.4 4.5.3 6.6.5 1.4 1.7 2.5 2.4 3.9 1.9 3.9 2 7 3.1 11.5.1.5.2.9.4 1.3s.4.8.6 1.1c.9 1.4 1.8 2.9 2.6 4.3.6 1 1.3 2.2 1.4 3.5z" />
+  </svg:g>
+  <svg:g id="Glycosylation" transform="matrix(1.09836 0 0 1.09716 -76.929462 -17.399425)">
+    <svg:g id="g1341">
+      <svg:path id="line1307" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M369.60001 26.5 369.5 24.4" />
+      <svg:path id="line1309" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m370.10001 35.200001-.20002-2.100003" />
+      <svg:path id="line1311" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M373 36.700001 374.79999 35.5" />
+      <svg:radialGradient id="SVGID_150_" cx="370.76599" cy="32.903999" r="3.0488" gradientTransform="rotate(86.97 367.55695457 35.40928768)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1313" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1315" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1318" fill="url(#SVGID_150_)" d="m373 36.7.1 3.3-2.7 1.7-2.9-1.4-.2-3.3 2.8-1.8z" />
+      <svg:radialGradient id="SVGID_151_" cx="366.41891" cy="25.374701" r="3.0488" gradientTransform="rotate(86.97 367.55695457 35.40928768)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1320" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1322" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1325" fill="url(#SVGID_151_)" d="m380.2 32 .2 3.2-2.7 1.8-2.9-1.5-.2-3.2 2.7-1.8z" />
+      <svg:radialGradient id="SVGID_152_" cx="362.0719" cy="32.903999" r="3.0488" gradientTransform="rotate(86.97 367.55695457 35.40928768)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1327" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1329" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1332" fill="url(#SVGID_152_)" d="m372.5 28 .2 3.3-2.8 1.8-2.9-1.5-.1-3.3 2.7-1.8z" />
+      <svg:radialGradient id="SVGID_153_" cx="353.37881" cy="32.885101" r="3.0488" gradientTransform="rotate(86.97 367.55695457 35.40928768)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1334" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1336" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1339" fill="url(#SVGID_153_)" d="m372.1 19.3.1 3.3-2.7 1.8-2.9-1.5-.2-3.3 2.8-1.7z" />
+    </svg:g>
+    <svg:g id="g1368">
+      <svg:path id="line1343" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m343.39999 37.900002-2.1-.800004" />
+      <svg:path id="line1345" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M345.89999 35.799999 345.5 33.700001" />
+      <svg:radialGradient id="SVGID_154_" cx="365.42651" cy="52.0308" r="3.0488" gradientTransform="rotate(20.664 391.60899366 -6.56682397)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1347" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1349" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1352" fill="url(#SVGID_154_)" d="M345.9 35.8 349 37l.5 3.2-2.5 2-3.1-1.1-.5-3.2z" />
+      <svg:radialGradient id="SVGID_155_" cx="361.0795" cy="44.501499" r="3.0488" gradientTransform="rotate(20.664 391.60899366 -6.56682397)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1354" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1356" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1359" fill="url(#SVGID_155_)" d="m344.5 27.2 3 1.2.6 3.2-2.6 2.1-3-1.2-.5-3.2z" />
+      <svg:radialGradient id="SVGID_156_" cx="356.73251" cy="52.0308" r="3.0488" gradientTransform="rotate(20.664 391.60899366 -6.56682397)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1361" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1363" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1366" fill="url(#SVGID_156_)" d="m337.8 32.7 3 1.2.5 3.2-2.5 2.1-3-1.2-.6-3.2z" />
+    </svg:g>
+    <svg:g id="g1395">
+      <svg:path id="line1370" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m341.39999 50.799999-1.5 1.5" />
+      <svg:path id="line1372" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M340.60001 47.700001 338.5 47.099998" />
+      <svg:radialGradient id="SVGID_157_" cx="373.397" cy="67.755898" r="3.0488" gradientTransform="matrix(.712 -.7021 .7021 .712 30.2793 262.4632)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1374" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1376" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1379" fill="url(#SVGID_157_)" d="m340.6 47.7 2.3-2.3 3.1.8.9 3.2-2.4 2.3-3.1-.9z" />
+      <svg:radialGradient id="SVGID_158_" cx="369.0499" cy="60.226601" r="3.0488" gradientTransform="matrix(.712 -.7021 .7021 .712 30.2793 262.4632)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1381" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1383" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1386" fill="url(#SVGID_158_)" d="m332.2 45.4 2.3-2.3 3.2.8.8 3.2-2.3 2.3-3.2-.9z" />
+      <svg:radialGradient id="SVGID_159_" cx="364.70291" cy="67.755898" r="3.0488" gradientTransform="matrix(.712 -.7021 .7021 .712 30.2793 262.4632)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1388" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1390" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1393" fill="url(#SVGID_159_)" d="m334.4 53.8 2.3-2.3 3.2.8.8 3.2-2.3 2.3-3.2-.9z" />
+    </svg:g>
+    <svg:g id="g1422">
+      <svg:path id="line1397" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m357.20001 35.200001-1.1-1.900002" />
+      <svg:path id="line1399" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M360.39999 35.200001 361.5 33.400002" />
+      <svg:radialGradient id="SVGID_160_" cx="375.30341" cy="44.909" r="3.0488" gradientTransform="rotate(60.205 372.97921525 27.24977737)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1401" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1403" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1406" fill="url(#SVGID_160_)" d="m360.4 35.2 1.6 2.9-1.6 2.8h-3.3l-1.6-2.9 1.7-2.8z" />
+      <svg:radialGradient id="SVGID_161_" cx="370.95639" cy="37.3797" r="3.0488" gradientTransform="rotate(60.205 372.97921525 27.24977737)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1408" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1410" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1413" fill="url(#SVGID_161_)" d="m364.8 27.7 1.6 2.9-1.6 2.8h-3.3l-1.6-2.9 1.6-2.8z" />
+      <svg:radialGradient id="SVGID_162_" cx="366.60931" cy="44.909" r="3.0488" gradientTransform="rotate(60.205 372.97921525 27.24977737)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1415" offset="0" stop-color="#d1d1d1" />
+        <svg:stop id="stop1417" offset="1" stop-color="#c2c4c6" />
+      </svg:radialGradient>
+      <svg:path id="polygon1420" fill="url(#SVGID_162_)" d="m356.1 27.7 1.6 2.8-1.6 2.8h-3.3l-1.6-2.8 1.7-2.8z" />
+    </svg:g>
+  </svg:g>
+  <svg:g id="GP120_1_" transform="matrix(1.09836 0 0 1.09716 -76.929462 -17.399425)">
+    <svg:path id="path1425" fill="#48a392" d="M368.8 37C359 35.8 355 55.6 364 55.4c4.3-.1 9.9-2.3 10.6-7 .7-4-.6-10.8-5.8-11.4z" />
+    <svg:path id="path1427" fill="#48a392" d="M348.8 37c9.8-1.1 13.8 18.6 4.8 18.4-4.3-.1-9.9-2.3-10.6-7-.6-4 .6-10.8 5.8-11.4z" />
+    <svg:ellipse id="ellipse1429" cx="358.79999" cy="46.200001" fill="#44ad99" rx="7" ry="9.1999998" />
+  </svg:g>
+  <svg:g id="Spike_8_" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)">
+    <svg:g id="GP41_8_">
+      <svg:linearGradient id="SVGID_163_" x1="358.6777" x2="358.6777" y1="74.818001" y2="65.852501" gradientTransform="rotate(73.34 356.47406207 280.42541913)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1433" offset="0" stop-color="#069393" />
+        <svg:stop id="stop1435" offset="1" stop-color="#03807f" />
+      </svg:linearGradient>
+      <svg:path id="path1438" fill="url(#SVGID_163_)" d="M537.9 232.2c1.4 0 2.8-.1 4-.6 1.9-.8 3.2-2.6 5.1-3.7 1.7-.9 3.6-1.1 5.5-1.5 2.7-.5 5.3-1.4 7.9-2.1.8-.3 1.7-.5 2.6-.5.5 0 .9.1 1.4.2 2.3.4 4.7-.3 7-.9 1.3-.4 2.6-.7 3.5-1.7.2-.2.3-.4.4-.6.1-.3 0-.6-.1-.8-.5-1.8-1.5-3.4-2.8-4.6-.2-.2-.4-.3-.6-.4-.3-.1-.6-.2-.8-.2-2.5 0-4.3 2-6.3 3.6-1.4 1.1-3 1.9-4.6 2.4-1.1.4-2.2.6-3.4.8-3.4.8-6.8 1.7-10.2 2.8-.4.1-.7.2-1.1.3-.5 0-.9-.2-1.4-.3-1.9-.7-4-1.1-6-.6-1.4.4-2.6 1.3-3.6 2.3-.3.3-.6.6-.8 1-.2.6 0 1.3.2 1.9.3 1 .7 2.1 1.6 2.7.6.5 1.6.5 2.5.5z" />
+      <svg:linearGradient id="SVGID_164_" x1="358.43829" x2="358.43829" y1="60.547901" y2="56.573601" gradientTransform="rotate(73.34 356.47406207 280.42541913)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1440" offset="0" stop-color="#159995" />
+        <svg:stop id="stop1442" offset="1" stop-color="#148d89" />
+      </svg:linearGradient>
+      <svg:path id="path1445" fill="url(#SVGID_164_)" d="M542.6 244.7c-.9.3-1.9.2-2.9.1-.7-.1-1.3-.2-1.8-.7-.6-.5-.7-1.4-.7-2.2.1-1.8 1.2-3.6 2.8-4.6 1.5-.9 3.3-1.2 4.7-2.3.6-.5 1-1.1 1.6-1.5.6-.5 1.3-.8 1.9-1.2 5.1-2.9 9.6-3.7 13.4-8.1.6-.7 1.2-1.4 1.5-2.3.2-.4.2-.8.3-1.2-.3-.3-.6-.6-.9-.8-.8-.5-1.6-.8-2.5-1-5.6-1.6-10.4-.1-16.3.2-.8.1-1.5.1-2.3.1-.7-.1-1.4-.3-2.2-.4-1.7-.2-3.4.6-5.1.7-1.9 0-3.7-.9-4.8-2.3-.5-.6-.8-1.4-.6-2.2.2-.6.7-1.1 1.2-1.6.7-.6 1.5-1.2 2.5-1.5 1.3-.3 2.6 0 3.9.3 1.6.4 3.3.9 4.9 1.3.4.1.8.2 1.3.3h1.4c4.6-.3 7.7-.8 12.4 0 1.5.2 2.9 1.1 4.4 1.2 2.2.1 4.4-.7 6.4-1.6 1.3-.5 3.7-1.4 5-1.9l3.7 12.5c-1.4.3-3.8.9-5.2 1.1-2.2.4-4.4.9-6.2 2.2-1.2.9-1.9 2.4-3.1 3.4-3.2 2.9-6.1 3.9-10.1 6.2-.4.2-.8.4-1.2.7l-.9.9c-1.1 1.3-2.2 2.5-3.4 3.8-.9 1-1.8 2-3.1 2.4z" />
+    </svg:g>
+    <svg:g id="Glycosylation_1_">
+      <svg:g id="g1473">
+        <svg:path id="line1448" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m595.29999 223.10001 2-.70002" />
+        <svg:path id="line1450" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m594.70001 226.39999 1.59998 1.40001" />
+        <svg:radialGradient id="SVGID_165_" cx="370.76599" cy="32.903999" r="3.0488" gradientTransform="matrix(-.9415 .3369 -.3369 -.9415 952.3604 130.3138)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1452" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1454" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1457" fill="url(#SVGID_165_)" d="m589.7 222.1 3.1-1.1 2.5 2.1-.6 3.3-3.1 1.1-2.5-2.2z" />
+        <svg:radialGradient id="SVGID_166_" cx="366.41891" cy="25.374701" r="3.0488" gradientTransform="matrix(-.9415 .3369 -.3369 -.9415 952.3604 130.3138)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1459" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1461" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1464" fill="url(#SVGID_166_)" d="m596.3 227.8 3.1-1.1 2.5 2.1-.6 3.2-3.1 1.1-2.5-2.1z" />
+        <svg:radialGradient id="SVGID_167_" cx="362.0719" cy="32.903999" r="3.0488" gradientTransform="matrix(-.9415 .3369 -.3369 -.9415 952.3604 130.3138)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1466" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1468" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1471" fill="url(#SVGID_167_)" d="m597.9 219.2 3.1-1.1 2.4 2.1-.5 3.2-3.1 1.1-2.5-2.1z" />
+      </svg:g>
+      <svg:g id="g1509">
+        <svg:path id="line1475" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m585.59998 189.7.20001-2.2" />
+        <svg:path id="line1477" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m585.09998 198.39999.10003-2.19999" />
+        <svg:path id="line1479" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m587.79999 200.2 1.90002-1" />
+        <svg:radialGradient id="SVGID_168_" cx="365.42651" cy="52.0308" r="3.0488" gradientTransform="matrix(-.06987 .9976 -.9976 -.06987 662.2822 -159.2953)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1481" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1483" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1486" fill="url(#SVGID_168_)" d="m581.9 203 .2-3.2 3-1.4 2.7 1.8-.3 3.2-2.9 1.5z" />
+        <svg:radialGradient id="SVGID_169_" cx="361.0795" cy="44.501499" r="3.0488" gradientTransform="matrix(-.06987 .9976 -.9976 -.06987 662.2822 -159.2953)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1488" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1490" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1493" fill="url(#SVGID_169_)" d="m589.7 199.2.3-3.2 2.9-1.5 2.7 1.9-.2 3.2-3 1.4z" />
+        <svg:radialGradient id="SVGID_170_" cx="356.73251" cy="52.0308" r="3.0488" gradientTransform="matrix(-.06987 .9976 -.9976 -.06987 662.2822 -159.2953)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1495" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1497" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1500" fill="url(#SVGID_170_)" d="m582.5 194.4.3-3.3 2.9-1.4 2.7 1.8-.2 3.3-3 1.4z" />
+        <svg:radialGradient id="SVGID_171_" cx="348.02679" cy="52.063301" r="3.0488" gradientTransform="matrix(-.06987 .9976 -.9976 -.06987 662.2822 -159.2953)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1502" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1504" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1507" fill="url(#SVGID_171_)" d="m583.1 185.7.2-3.3 3-1.4 2.7 1.8-.3 3.3-2.9 1.4z" />
+      </svg:g>
+      <svg:g id="g1536">
+        <svg:path id="line1511" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m572.09998 200.2-1.89997-1.09999" />
+        <svg:path id="line1513" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m574.90002 198.5-.10003-2.2" />
+        <svg:radialGradient id="SVGID_172_" cx="373.397" cy="67.755898" r="3.0488" gradientTransform="rotate(28.741 212.69621955 528.06909077)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1515" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1517" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1520" fill="url(#SVGID_172_)" d="m575 205-2.8-1.6-.1-3.2 2.8-1.7 2.8 1.5.1 3.3z" />
+        <svg:radialGradient id="SVGID_173_" cx="369.0499" cy="60.226601" r="3.0488" gradientTransform="rotate(28.741 212.69621955 528.06909077)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1522" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1524" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1527" fill="url(#SVGID_173_)" d="m574.8 196.3-2.8-1.6-.1-3.2 2.8-1.7 2.9 1.6v3.2z" />
+        <svg:radialGradient id="SVGID_174_" cx="364.70291" cy="67.755898" r="3.0488" gradientTransform="rotate(28.741 212.69621955 528.06909077)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1529" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1531" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1534" fill="url(#SVGID_174_)" d="m567.4 200.8-2.8-1.6-.1-3.2 2.8-1.7 2.8 1.6.1 3.2z" />
+      </svg:g>
+      <svg:g id="g1563">
+        <svg:path id="line1538" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m591.59998 210.8 1.5-1.6" />
+        <svg:path id="line1540" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m592.5 213.89999 2.09998.5" />
+        <svg:radialGradient id="SVGID_175_" cx="375.30341" cy="44.909" r="3.0488" gradientTransform="matrix(-.689 .7248 -.7248 -.689 880.444 -27.9042)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1542" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1544" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1547" fill="url(#SVGID_175_)" d="m586.1 212.4 2.3-2.4 3.2.8.9 3.1-2.3 2.4-3.1-.8z" />
+        <svg:radialGradient id="SVGID_176_" cx="370.95639" cy="37.3797" r="3.0488" gradientTransform="matrix(-.689 .7248 -.7248 -.689 880.444 -27.9042)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1549" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1551" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1554" fill="url(#SVGID_176_)" d="m594.6 214.4 2.2-2.3 3.2.7.9 3.2-2.2 2.3-3.2-.7z" />
+        <svg:radialGradient id="SVGID_177_" cx="366.60931" cy="44.909" r="3.0488" gradientTransform="matrix(-.689 .7248 -.7248 -.689 880.444 -27.9042)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1556" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1558" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1561" fill="url(#SVGID_177_)" d="m592.1 206.1 2.3-2.4 3.2.8.9 3.1-2.3 2.4-3.1-.8z" />
+      </svg:g>
+      <svg:g id="g1590">
+        <svg:path id="line1565" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m585.20001 233.39999 1.09998 1.90001" />
+        <svg:path id="line1567" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m581.90002 233.5-1.10003 1.8" />
+        <svg:radialGradient id="SVGID_178_" cx="401.1843" cy="36.111599" r="3.0488" gradientTransform="matrix(-.5087 -.8609 .8609 -.5087 756.5038 594.3771)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1569" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1571" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1574" fill="url(#SVGID_178_)" d="m585.1 227.8 1.7 2.8-1.6 2.8h-3.3l-1.6-2.8 1.6-2.8z" />
+        <svg:radialGradient id="SVGID_179_" cx="396.83731" cy="28.5823" r="3.0488" gradientTransform="matrix(-.5087 -.8609 .8609 -.5087 756.5038 594.3771)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1576" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1578" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1581" fill="url(#SVGID_179_)" d="m580.8 235.3 1.7 2.8-1.6 2.9h-3.3l-1.6-2.8 1.6-2.8z" />
+        <svg:radialGradient id="SVGID_180_" cx="392.4902" cy="36.111599" r="3.0488" gradientTransform="matrix(-.5087 -.8609 .8609 -.5087 756.5038 594.3771)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1583" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1585" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1588" fill="url(#SVGID_180_)" d="m589.5 235.3 1.7 2.8-1.6 2.8h-3.3l-1.6-2.8 1.6-2.8z" />
+      </svg:g>
+    </svg:g>
+    <svg:g id="GP120_8_">
+      <svg:path id="path1593" fill="#48a392" d="M593.2 222.5c-1.7-9.7-21.8-7.9-19.1.6 1.3 4.1 5 8.8 9.7 8.2 4.2-.5 10.3-3.7 9.4-8.8z" />
+      <svg:path id="path1595" fill="#48a392" d="M587.5 203.3c3.9 9.1-13.9 18.6-16.3 9.9-1.2-4.2-.7-10.1 3.6-12.2 3.7-1.8 10.6-2.5 12.7 2.3z" />
+      <svg:ellipse id="ellipse1597" cx="581.5" cy="215.5" fill="#44ad99" rx="7" ry="9.1999998" transform="rotate(73.34 581.56548422 215.53292287)" />
+    </svg:g>
+  </svg:g>
+  <svg:g id="Spike_3_" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)">
+    <svg:g id="GP41_3_">
+      <svg:linearGradient id="SVGID_181_" x1="358.6777" x2="358.6777" y1="74.818001" y2="65.852501" gradientTransform="matrix(.6429 -.766 .766 .6429 -87.4876 373.1708)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1601" offset="0" stop-color="#069393" />
+        <svg:stop id="stop1603" offset="1" stop-color="#03807f" />
+      </svg:linearGradient>
+      <svg:path id="path1606" fill="url(#SVGID_181_)" d="M216.5 155.3c-.8-1.1-1.6-2.3-2.7-3-1.7-1.2-4-1.3-5.8-2.2-1.7-.9-3-2.4-4.3-3.8-1.9-1.9-4-3.6-6.1-5.4-.7-.6-1.4-1.1-1.8-1.9-.2-.4-.4-.9-.6-1.3-1-2.2-2.8-3.8-4.6-5.3-1-.9-2-1.7-3.3-1.9h-.7c-.3.1-.5.3-.7.5-1.2 1.4-2 3.1-2.3 4.9 0 .3-.1.5 0 .8 0 .3.2.5.3.8 1.3 2.1 4.1 2.5 6.4 3.3 1.7.6 3.2 1.4 4.6 2.5.9.7 1.7 1.5 2.5 2.3 2.5 2.5 5.2 4.8 7.9 7 .3.2.6.5.8.8.3.4.4.9.5 1.3.5 2 1.3 4 2.8 5.3 1.1.9 2.5 1.4 3.9 1.8.4.1.9.2 1.3.1.6-.2 1.1-.7 1.5-1.2.7-.8 1.4-1.7 1.3-2.8.1-1-.4-1.8-.9-2.6z" />
+      <svg:linearGradient id="SVGID_182_" x1="358.43829" x2="358.43829" y1="60.547901" y2="56.573601" gradientTransform="matrix(.6429 -.766 .766 .6429 -87.4876 373.1708)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1608" offset="0" stop-color="#159995" />
+        <svg:stop id="stop1610" offset="1" stop-color="#148d89" />
+      </svg:linearGradient>
+      <svg:path id="path1613" fill="url(#SVGID_182_)" d="M224.3 144.5c.8.6 1.2 1.5 1.7 2.4.3.6.6 1.2.5 1.9-.1.8-.8 1.4-1.5 1.8-1.6.9-3.7 1-5.4.2-1.6-.7-2.8-2.1-4.4-2.6-.7-.2-1.5-.3-2.2-.5-.7-.2-1.4-.6-2.1-1-5.2-2.7-8.4-6-14.2-6.7-.9-.1-1.8-.2-2.7 0-.4.1-.8.2-1.2.4-.1.4-.2.8-.2 1.2 0 .9.2 1.8.5 2.7 1.7 5.6 5.6 8.8 9.1 13.5.5.6 1 1.2 1.3 1.9.3.7.5 1.4.8 2 .8 1.5 2.4 2.5 3.4 3.9 1.1 1.5 1.3 3.6.7 5.3-.3.8-.7 1.5-1.5 1.8-.6.2-1.3.1-1.9-.1-.9-.3-1.9-.6-2.6-1.2-1-.9-1.4-2.2-1.8-3.4-.5-1.6-1.1-3.2-1.6-4.8-.1-.4-.3-.8-.5-1.2-.2-.4-.5-.8-.8-1.1-2.8-3.7-4.9-6-6.9-10.4-.6-1.4-.7-3-1.5-4.4-1.1-1.9-3-3.2-4.8-4.5-1.2-.8-3.2-2.3-4.3-3.1l8.4-10c1 1 2.8 2.7 3.8 3.7 1.6 1.6 3.2 3.2 5.3 4 1.4.5 3.1.3 4.5.7 4.2 1.1 6.6 2.9 10.8 5l1.2.6c.4.1.8.2 1.3.3 1.7.2 3.3.5 5 .7 1.5-.1 2.8.2 3.8 1z" />
+    </svg:g>
+    <svg:g id="Glycosylation_4_">
+      <svg:g id="g1641">
+        <svg:path id="line1616" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M177.39999 112.4 175.7 111.1" />
+        <svg:path id="line1618" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m180.39999 111.1.30001-2.2" />
+        <svg:radialGradient id="SVGID_183_" cx="370.76599" cy="32.903999" r="3.0488" gradientTransform="rotate(36.975 153.63820038 -211.6251739)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1620" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1622" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1625" fill="url(#SVGID_183_)" d="m179.6 117.6-2.6-2 .4-3.2 3-1.3 2.6 2-.4 3.2z" />
+        <svg:radialGradient id="SVGID_184_" cx="366.41891" cy="25.374701" r="3.0488" gradientTransform="rotate(36.975 153.63820038 -211.6251739)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1627" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1629" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1632" fill="url(#SVGID_184_)" d="m180.7 108.9-2.6-1.9.4-3.3 3-1.2 2.6 1.9-.4 3.3z" />
+        <svg:radialGradient id="SVGID_185_" cx="362.0719" cy="32.903999" r="3.0488" gradientTransform="rotate(36.975 153.63820038 -211.6251739)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1634" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1636" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1639" fill="url(#SVGID_185_)" d="m172.7 112.3-2.6-1.9.4-3.3 3-1.2 2.6 1.9-.4 3.3z" />
+      </svg:g>
+      <svg:g id="g1668">
+        <svg:path id="line1643" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m162.3 134.5-1.90001 1.10001" />
+        <svg:path id="line1645" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m162.3 131.2-1.90001-1.09999" />
+        <svg:radialGradient id="SVGID_186_" cx="365.42651" cy="52.0308" r="3.0488" gradientTransform="matrix(.8718 -.4898 .4898 .8718 -178.9576 266.529)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1647" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1649" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1652" fill="url(#SVGID_186_)" d="m167.9 134.6-2.8 1.6-2.8-1.7v-3.3l2.9-1.6 2.8 1.7z" />
+        <svg:radialGradient id="SVGID_187_" cx="361.0795" cy="44.501499" r="3.0488" gradientTransform="matrix(.8718 -.4898 .4898 .8718 -178.9576 266.529)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1654" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1656" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1659" fill="url(#SVGID_187_)" d="m160.4 130.1-2.8 1.6-2.8-1.6v-3.3l2.9-1.6 2.8 1.7z" />
+        <svg:radialGradient id="SVGID_188_" cx="356.73251" cy="52.0308" r="3.0488" gradientTransform="matrix(.8718 -.4898 .4898 .8718 -178.9576 266.529)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1661" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1663" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1666" fill="url(#SVGID_188_)" d="m160.3 138.8-2.8 1.6-2.8-1.6v-3.3l2.9-1.6 2.8 1.7z" />
+      </svg:g>
+      <svg:g id="g1695">
+        <svg:path id="line1670" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m170.89999 144.3.20002 2.2" />
+        <svg:path id="line1672" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M168 142.89999 166.2 144.2" />
+        <svg:radialGradient id="SVGID_189_" cx="373.397" cy="67.755898" r="3.0488" gradientTransform="matrix(-.08005 -.9968 .9968 -.08005 133.0137 518.7144)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1674" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1676" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1679" fill="url(#SVGID_189_)" d="m173.3 139.2.3 3.3-2.7 1.8-2.9-1.4-.3-3.2 2.7-1.9z" />
+        <svg:radialGradient id="SVGID_190_" cx="369.0499" cy="60.226601" r="3.0488" gradientTransform="matrix(-.08005 -.9968 .9968 -.08005 133.0137 518.7144)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1681" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1683" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1686" fill="url(#SVGID_190_)" d="m166.2 144.2.2 3.2-2.6 1.9-3-1.4-.2-3.3 2.6-1.8z" />
+        <svg:radialGradient id="SVGID_191_" cx="364.70291" cy="67.755898" r="3.0488" gradientTransform="matrix(-.08005 -.9968 .9968 -.08005 133.0137 518.7144)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1688" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1690" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1693" fill="url(#SVGID_191_)" d="m174 147.9.3 3.3-2.7 1.8-2.9-1.4-.3-3.2 2.7-1.9z" />
+      </svg:g>
+      <svg:g id="g1731">
+        <svg:path id="line1697" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m160.60001 120.7-2.20002-.4" />
+        <svg:path id="line1699" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M169.10001 122.2 167 121.9" />
+        <svg:path id="line1701" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m171.2 119.8-.7-2.1" />
+        <svg:radialGradient id="SVGID_192_" cx="375.30341" cy="44.909" r="3.0488" gradientTransform="matrix(.9841 .1774 -.1774 .9841 -189.0654 12.057)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1703" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1705" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1708" fill="url(#SVGID_192_)" d="m173.4 125.9-3.2-.6-1.1-3.1 2.1-2.4 3.2.5 1.1 3.1z" />
+        <svg:radialGradient id="SVGID_193_" cx="370.95639" cy="37.3797" r="3.0488" gradientTransform="matrix(.9841 .1774 -.1774 .9841 -189.0654 12.057)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1710" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1712" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1715" fill="url(#SVGID_193_)" d="m170.5 117.7-3.2-.6-1.1-3 2.1-2.5 3.2.5 1.1 3.1z" />
+        <svg:radialGradient id="SVGID_194_" cx="366.60931" cy="44.909" r="3.0488" gradientTransform="matrix(.9841 .1774 -.1774 .9841 -189.0654 12.057)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1717" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1719" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1722" fill="url(#SVGID_194_)" d="m164.9 124.3-3.2-.5-1.1-3.1 2.1-2.5 3.2.6 1.1 3.1z" />
+        <svg:radialGradient id="SVGID_195_" cx="357.91821" cy="44.9258" r="3.0488" gradientTransform="matrix(.9841 .1774 -.1774 .9841 -189.0654 12.057)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1724" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1726" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1729" fill="url(#SVGID_195_)" d="m156.3 122.8-3.2-.6-1.1-3 2.1-2.5 3.2.6 1.1 3z" />
+      </svg:g>
+      <svg:g id="g1758">
+        <svg:path id="line1733" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m191.5 115.2 1-2" />
+        <svg:path id="line1735" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m193.3 117.9 2.2-.2" />
+        <svg:radialGradient id="SVGID_196_" cx="401.1843" cy="36.111599" r="3.0488" gradientTransform="rotate(116.091 270.06659959 11.25254417)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1737" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1739" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1742" fill="url(#SVGID_196_)" d="m186.8 118.3 1.5-2.9 3.2-.2 1.8 2.7-1.4 2.9-3.2.2z" />
+        <svg:radialGradient id="SVGID_197_" cx="396.83731" cy="28.5823" r="3.0488" gradientTransform="rotate(116.091 270.06659959 11.25254417)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1744" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1746" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1749" fill="url(#SVGID_197_)" d="m195.5 117.7 1.4-2.9 3.3-.2 1.8 2.7-1.4 2.9-3.3.2z" />
+        <svg:radialGradient id="SVGID_198_" cx="392.4902" cy="36.111599" r="3.0488" gradientTransform="rotate(116.091 270.06659959 11.25254417)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1751" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1753" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1756" fill="url(#SVGID_198_)" d="m190.7 110.5 1.4-2.9 3.2-.3 1.9 2.7-1.5 3-3.2.2z" />
+      </svg:g>
+    </svg:g>
+    <svg:g id="GP120_3_">
+      <svg:path id="path1761" fill="#48a392" d="M177.9 114.4c-7.2 6.8 5.4 22.6 11 15.6 2.7-3.3 4.6-9 1.5-12.6-2.6-3.1-8.7-6.5-12.5-3z" />
+      <svg:path id="path1763" fill="#48a392" d="M165.1 129.8c5.4-8.2 23.2 1.4 17.2 8.2-2.8 3.3-8.1 6.1-12.2 3.7-3.5-2.2-7.9-7.6-5-11.9z" />
+      <svg:ellipse id="ellipse1765" cx="178.60001" cy="128" fill="#44ad99" rx="7" ry="9.1999998" transform="matrix(.6429 -.766 .766 .6429 -34.291 182.4853)" />
+    </svg:g>
+  </svg:g>
+  <svg:g id="Spike_4_" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)">
+    <svg:g id="GP41_4_">
+      <svg:linearGradient id="SVGID_199_" x1="358.6777" x2="358.6777" y1="74.818001" y2="65.852501" gradientTransform="matrix(-.1811 -.9835 .9835 -.1811 145.242 681.7616)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1769" offset="0" stop-color="#069393" />
+        <svg:stop id="stop1771" offset="1" stop-color="#03807f" />
+      </svg:linearGradient>
+      <svg:path id="path1774" fill="url(#SVGID_199_)" d="M170.9 308.7c-1.4-.1-2.7-.2-4 .2-2 .6-3.5 2.3-5.4 3.1-1.8.8-3.7.7-5.6.9-2.7.2-5.4.8-8 1.3-.9.2-1.8.3-2.6.2-.5-.1-.9-.2-1.4-.4-2.3-.6-4.7-.2-7 .2-1.3.2-2.6.5-3.6 1.3-.2.2-.3.3-.4.6-.1.3-.1.6 0 .8.3 1.8 1.1 3.5 2.3 4.9.2.2.4.4.6.5.2.1.5.2.8.3 2.4.3 4.5-1.6 6.6-2.9 1.5-.9 3.2-1.6 4.9-1.9 1.1-.2 2.3-.3 3.4-.5 3.5-.4 7-.9 10.4-1.7.4-.1.8-.2 1.1-.1.5 0 .9.3 1.3.5 1.8.9 3.9 1.6 5.9 1.2 1.4-.3 2.7-1 3.9-1.9.3-.3.7-.6.9-.9.3-.6.2-1.3 0-2-.2-1-.5-2.2-1.3-2.8-1-.7-1.9-.8-2.8-.9z" />
+      <svg:linearGradient id="SVGID_200_" x1="358.43829" x2="358.43829" y1="60.547901" y2="56.573601" gradientTransform="matrix(-.1811 -.9835 .9835 -.1811 145.242 681.7616)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1776" offset="0" stop-color="#159995" />
+        <svg:stop id="stop1778" offset="1" stop-color="#148d89" />
+      </svg:linearGradient>
+      <svg:path id="path1781" fill="url(#SVGID_200_)" d="M167.5 295.7c1-.2 1.9 0 2.9.2.6.2 1.3.4 1.7.9.5.6.6 1.5.4 2.3-.3 1.8-1.6 3.5-3.2 4.3-1.6.7-3.4.8-4.9 1.7-.6.4-1.1.9-1.7 1.4-.6.4-1.4.7-2.1 1-5.4 2.3-10 2.6-14.2 6.6-.7.6-1.3 1.3-1.8 2.1-.2.4-.3.8-.5 1.2.3.3.5.6.8.9.7.6 1.5 1 2.4 1.3 5.4 2.2 10.4 1.3 16.2 1.5.8 0 1.5 0 2.3.2.7.2 1.4.5 2.1.6 1.7.4 3.5-.3 5.2-.1 1.8.2 3.6 1.2 4.6 2.8.4.7.7 1.5.4 2.3-.2.6-.8 1-1.3 1.4-.8.6-1.7 1.1-2.6 1.2-1.3.2-2.6-.3-3.8-.8-1.6-.6-3.1-1.2-4.7-1.8-.4-.2-.8-.3-1.2-.4-.5-.1-.9-.1-1.4-.1-4.6-.2-7.7 0-12.4-1.3-1.5-.4-2.8-1.4-4.3-1.6-2.2-.3-4.4.3-6.5.9-1.4.4-3.8 1-5.2 1.4l-2.4-12.8c1.4-.1 3.9-.4 5.3-.6 2.2-.2 4.5-.4 6.4-1.5 1.3-.8 2.2-2.2 3.4-3.1 3.5-2.5 6.5-3.3 10.7-5.1.4-.2.8-.3 1.2-.6.4-.2.7-.5 1-.8 1.3-1.1 2.5-2.3 3.8-3.4 1.1-1 2.1-1.9 3.4-2.2z" />
+    </svg:g>
+    <svg:g id="Glycosylation_5_">
+      <svg:g id="g1809">
+        <svg:path id="line1784" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M112.9 311.39999 110.8 312" />
+        <svg:path id="line1786" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m113.8 308.29999-1.5-1.59998" />
+        <svg:radialGradient id="SVGID_201_" cx="370.76599" cy="32.903999" r="3.0488" gradientTransform="rotate(-13.468 1420.13623485 1251.07580094)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1788" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1790" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1793" fill="url(#SVGID_201_)" d="m118.3 313.1-3.2.7-2.2-2.4.9-3.1 3.2-.7 2.2 2.3z" />
+        <svg:radialGradient id="SVGID_202_" cx="366.41891" cy="25.374701" r="3.0488" gradientTransform="rotate(-13.468 1420.13623485 1251.07580094)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1795" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1797" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1800" fill="url(#SVGID_202_)" d="m112.3 306.7-3.2.8-2.2-2.4.9-3.1 3.2-.7 2.2 2.3z" />
+        <svg:radialGradient id="SVGID_203_" cx="362.0719" cy="32.903999" r="3.0488" gradientTransform="rotate(-13.468 1420.13623485 1251.07580094)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1802" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1804" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1807" fill="url(#SVGID_203_)" d="m109.8 315.1-3.1.7-2.3-2.3.9-3.2 3.2-.7 2.3 2.4z" />
+      </svg:g>
+      <svg:g id="g1836">
+        <svg:path id="line1811" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m120.3 337.20001-.4 2.09998" />
+        <svg:path id="line1813" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m117.8 335.10001-2 .69998" />
+        <svg:radialGradient id="SVGID_204_" cx="365.42651" cy="52.0308" r="3.0488" gradientTransform="rotate(-79.77 411.84946043 339.33055203)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1815" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1817" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1820" fill="url(#SVGID_204_)" d="m123.9 332.9-.5 3.2-3.1 1.1-2.5-2.1.6-3.2 3.1-1.1z" />
+        <svg:radialGradient id="SVGID_205_" cx="361.0795" cy="44.501499" r="3.0488" gradientTransform="rotate(-79.77 411.84946043 339.33055203)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1822" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1824" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1827" fill="url(#SVGID_205_)" d="m115.8 335.8-.6 3.2-3.1 1.1-2.5-2.1.6-3.2 3.1-1.1z" />
+        <svg:radialGradient id="SVGID_206_" cx="356.73251" cy="52.0308" r="3.0488" gradientTransform="rotate(-79.77 411.84946043 339.33055203)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1829" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1831" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1834" fill="url(#SVGID_206_)" d="m122.4 341.4-.6 3.3-3 1.1-2.5-2.1.5-3.3 3.1-1.1z" />
+      </svg:g>
+      <svg:g id="g1872">
+        <svg:path id="line1838" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M129.7 346.79999 129.5 349" />
+        <svg:path id="line1840" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M133.39999 336.79999 135.2 338" />
+        <svg:path id="line1842" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m130.39999 338.20001-.09999 2.09998" />
+        <svg:radialGradient id="SVGID_207_" cx="373.397" cy="67.755898" r="3.0488" gradientTransform="rotate(-145.035 294.13317053 239.56256113)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1844" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1846" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1849" fill="url(#SVGID_207_)" d="m131 331.7 2.7 1.9-.3 3.2-3 1.4-2.6-1.9.2-3.2z" />
+        <svg:radialGradient id="SVGID_208_" cx="369.0499" cy="60.226601" r="3.0488" gradientTransform="rotate(-145.035 294.13317053 239.56256113)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1851" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1853" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1856" fill="url(#SVGID_208_)" d="m130.2 340.3 2.7 1.9-.3 3.3-2.9 1.3-2.7-1.8.3-3.3z" />
+        <svg:radialGradient id="SVGID_209_" cx="364.6734" cy="52.726799" r="3.0488" gradientTransform="rotate(-145.035 294.13317053 239.56256113)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1858" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1860" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1863" fill="url(#SVGID_209_)" d="m129.5 349 2.7 1.9-.3 3.2-2.9 1.4-2.7-1.9.3-3.2z" />
+        <svg:radialGradient id="SVGID_210_" cx="364.70291" cy="67.755898" r="3.0488" gradientTransform="rotate(-145.035 294.13317053 239.56256113)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1865" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1867" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1870" fill="url(#SVGID_210_)" d="m138.1 336.7 2.7 1.8-.3 3.3-2.9 1.4-2.7-1.9.3-3.3z" />
+      </svg:g>
+      <svg:g id="g1899">
+        <svg:path id="line1874" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M115.2 324.10001 113.5 325.5" />
+        <svg:path id="line1876" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m114.6 320.89999-2-.69998" />
+        <svg:radialGradient id="SVGID_211_" cx="375.30341" cy="44.909" r="3.0488" gradientTransform="rotate(-40.226 624.83731325 535.20195816)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1878" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1880" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1883" fill="url(#SVGID_211_)" d="m120.8 323.1-2.5 2.1-3.1-1.1-.6-3.2 2.5-2.1 3.1 1.1z" />
+        <svg:radialGradient id="SVGID_212_" cx="370.95639" cy="37.3797" r="3.0488" gradientTransform="rotate(-40.226 624.83731325 535.20195816)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1885" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1887" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1890" fill="url(#SVGID_212_)" d="m112.6 320.2-2.5 2.1-3.1-1.1-.6-3.2 2.5-2.1 3.1 1.1z" />
+        <svg:radialGradient id="SVGID_213_" cx="366.60931" cy="44.909" r="3.0488" gradientTransform="rotate(-40.226 624.83731325 535.20195816)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1892" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1894" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1897" fill="url(#SVGID_213_)" d="m114.1 328.7-2.5 2.1-3-1.1-.6-3.2 2.5-2.1 3 1.1z" />
+      </svg:g>
+      <svg:g id="g1926">
+        <svg:path id="line1901" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m124 302.29999-.9-1.9" />
+        <svg:path id="line1903" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m127.2 302.70001 1.3-1.80002" />
+        <svg:radialGradient id="SVGID_214_" cx="401.1843" cy="36.111599" r="3.0488" gradientTransform="matrix(.4123 .911 -.911 .4123 -7.1775 -75.0788)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1905" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1907" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1910" fill="url(#SVGID_214_)" d="m123.4 308-1.3-3 1.9-2.7 3.2.4 1.4 2.9-1.9 2.7z" />
+        <svg:radialGradient id="SVGID_215_" cx="396.83731" cy="28.5823" r="3.0488" gradientTransform="matrix(.4123 .911 -.911 .4123 -7.1775 -75.0788)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1912" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1914" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1917" fill="url(#SVGID_215_)" d="m128.5 300.9-1.3-3 1.9-2.6 3.2.3 1.4 3-1.9 2.6z" />
+        <svg:radialGradient id="SVGID_216_" cx="392.4902" cy="36.111599" r="3.0488" gradientTransform="matrix(.4123 .911 -.911 .4123 -7.1775 -75.0788)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1919" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1921" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1924" fill="url(#SVGID_216_)" d="m119.9 300-1.4-2.9 1.9-2.7 3.3.3 1.3 3-1.9 2.7z" />
+      </svg:g>
+    </svg:g>
+    <svg:g id="GP120_4_">
+      <svg:path id="path1929" fill="#48a392" d="M114.8 312.3c.7 9.9 20.8 10.2 19 1.4-.9-4.2-4-9.3-8.8-9.2-4.1.2-10.5 2.6-10.2 7.8z" />
+      <svg:path id="path1931" fill="#48a392" d="M118.4 332c-2.9-9.5 15.8-17 17.3-8.1.7 4.3-.4 10.1-4.9 11.7-3.9 1.4-10.8 1.4-12.4-3.6z" />
+      <svg:ellipse id="ellipse1933" cx="125.7" cy="320.5" fill="#44ad99" rx="7" ry="9.1999998" transform="matrix(-.1811 -.9835 .9835 -.1811 -166.7858 502.1537)" />
+    </svg:g>
+  </svg:g>
+  <svg:g id="Spike_11_" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)">
+    <svg:g id="GP41_10_">
+      <svg:linearGradient id="SVGID_217_" x1="358.6777" x2="358.6777" y1="74.818001" y2="65.852501" gradientTransform="rotate(-155.56 356.46946259 280.40938198)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1937" offset="0" stop-color="#069393" />
+        <svg:stop id="stop1939" offset="1" stop-color="#03807f" />
+      </svg:linearGradient>
+      <svg:path id="path1942" fill="url(#SVGID_217_)" d="M273.6 448.8c-.9 1-1.7 2.1-2.2 3.4-.7 2-.1 4.2-.6 6.2-.4 1.9-1.5 3.5-2.5 5.1-1.4 2.3-2.4 4.8-3.5 7.3-.4.8-.7 1.6-1.4 2.3-.3.3-.7.6-1.1.9-1.8 1.5-2.9 3.7-3.9 5.8-.6 1.2-1.1 2.4-1 3.7 0 .2.1.5.2.7.2.2.4.4.7.5 1.6.8 3.5 1.1 5.3.9.3 0 .5-.1.8-.2.3-.1.5-.3.7-.5 1.7-1.8 1.3-4.6 1.5-7.1.1-1.8.5-3.5 1.2-5.1.5-1.1 1-2.1 1.6-3.1 1.7-3.1 3.2-6.3 4.6-9.5.1-.4.3-.7.5-1 .3-.4.7-.6 1.1-.8 1.8-1 3.5-2.3 4.3-4.1.6-1.3.7-2.8.6-4.3 0-.4-.1-.9-.3-1.3-.3-.6-1-.9-1.6-1.1-1-.4-2-.8-3.1-.5-.7.4-1.4 1.1-1.9 1.8z" />
+      <svg:linearGradient id="SVGID_218_" x1="358.43829" x2="358.43829" y1="60.547901" y2="56.573601" gradientTransform="rotate(-155.56 356.46946259 280.40938198)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop1944" offset="0" stop-color="#159995" />
+        <svg:stop id="stop1946" offset="1" stop-color="#148d89" />
+      </svg:linearGradient>
+      <svg:path id="path1949" fill="url(#SVGID_218_)" d="M261 444.2c.4-.9 1.1-1.6 1.8-2.2.5-.4 1-.9 1.7-.9.8-.1 1.5.4 2.1.9 1.3 1.3 1.9 3.3 1.6 5.1-.3 1.7-1.3 3.3-1.4 5 0 .7.1 1.5.1 2.2 0 .8-.2 1.5-.4 2.3-1.2 5.7-3.5 9.7-2.7 15.5.1.9.3 1.8.7 2.6.2.4.4.7.7 1 .4 0 .8-.1 1.2-.2.9-.2 1.7-.7 2.4-1.2 4.9-3.2 7-7.8 10.5-12.4.5-.6.9-1.2 1.5-1.8.5-.5 1.2-.9 1.7-1.4 1.3-1.2 1.8-3 2.9-4.3 1.2-1.4 3.1-2.2 4.9-2.1.8.1 1.6.3 2.1 1 .4.5.4 1.2.4 1.9 0 1-.1 2-.5 2.9-.6 1.2-1.7 2-2.8 2.7-1.4.9-2.8 1.9-4.2 2.8-.4.2-.7.5-1 .8-.3.3-.6.7-.9 1.1-2.8 3.7-4.4 6.3-8.2 9.4-1.2 1-2.7 1.5-3.8 2.6-1.5 1.6-2.3 3.8-3 5.9-.5 1.4-1.4 3.7-1.8 5l-11.9-5.4c.7-1.3 1.9-3.4 2.6-4.7 1.1-1.9 2.2-3.9 2.4-6.1.1-1.5-.5-3-.5-4.6-.1-4.3 1-7.2 2-11.7.1-.5.2-.9.2-1.4 0-.4 0-.9-.1-1.3-.2-1.7-.4-3.3-.6-5-.1-1.4-.2-2.8.3-4z" />
+    </svg:g>
+    <svg:g id="Glycosylation_6_">
+      <svg:g id="g1977">
+        <svg:path id="line1952" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m242.7 498-.80001 2" />
+        <svg:path id="line1954" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m240.60001 495.5-2.10001.29999" />
+        <svg:radialGradient id="SVGID_219_" cx="370.76599" cy="32.903999" r="3.0488" gradientTransform="rotate(-68.6 646.0510449 356.9791767)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1956" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1958" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1961" fill="url(#SVGID_219_)" d="m247.1 494.5-1.2 3-3.2.5-2.1-2.5 1.2-3.1 3.2-.5z" />
+        <svg:radialGradient id="SVGID_220_" cx="366.41891" cy="25.374701" r="3.0488" gradientTransform="rotate(-68.6 646.0510449 356.9791767)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1963" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1965" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1968" fill="url(#SVGID_220_)" d="m238.5 495.8-1.2 3-3.2.5-2.1-2.5 1.2-3.1 3.2-.5z" />
+        <svg:radialGradient id="SVGID_221_" cx="362.0719" cy="32.903999" r="3.0488" gradientTransform="rotate(-68.6 646.0510449 356.9791767)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1970" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1972" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1975" fill="url(#SVGID_221_)" d="m243.9 502.6-1.2 3-3.2.5-2-2.5 1.1-3.1 3.3-.5z" />
+      </svg:g>
+      <svg:g id="g2013">
+        <svg:path id="line1979" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m262.60001 515.90002-.5 2.09998" />
+        <svg:path id="line1981" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m268 506.60001 1.60001 1.6" />
+        <svg:path id="line1983" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m264.89999 507.5-.6 2.10001" />
+        <svg:radialGradient id="SVGID_222_" cx="365.42651" cy="52.0308" r="3.0488" gradientTransform="matrix(-.7059 -.7084 .7084 -.7059 486.8212 799.9056)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1985" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1987" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1990" fill="url(#SVGID_222_)" d="m266.6 501.2 2.3 2.3-.9 3.1-3.1.9-2.3-2.3.8-3.2z" />
+        <svg:radialGradient id="SVGID_223_" cx="361.0795" cy="44.501499" r="3.0488" gradientTransform="matrix(-.7059 -.7084 .7084 -.7059 486.8212 799.9056)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1992" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop1994" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon1997" fill="url(#SVGID_223_)" d="m264.3 509.6 2.3 2.3-.8 3.1-3.2.9-2.3-2.3.9-3.2z" />
+        <svg:radialGradient id="SVGID_224_" cx="356.72949" cy="36.977501" r="3.0488" gradientTransform="matrix(-.7059 -.7084 .7084 -.7059 486.8212 799.9056)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop1999" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2001" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2004" fill="url(#SVGID_224_)" d="m262.1 518 2.3 2.3-.9 3.1-3.1.9-2.3-2.3.8-3.2z" />
+        <svg:radialGradient id="SVGID_225_" cx="356.73251" cy="52.0308" r="3.0488" gradientTransform="matrix(-.7059 -.7084 .7084 -.7059 486.8212 799.9056)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2006" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2008" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2011" fill="url(#SVGID_225_)" d="m272.7 507.3 2.3 2.3-.8 3.2-3.2.8-2.3-2.3.9-3.1z" />
+      </svg:g>
+      <svg:g id="g2040">
+        <svg:path id="line2015" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m275.20001 495.70001 2-.80002" />
+        <svg:path id="line2017" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m274.60001 498.89999 1.69998 1.4" />
+        <svg:radialGradient id="SVGID_226_" cx="373.397" cy="67.755898" r="3.0488" gradientTransform="rotate(159.834 284.62619046 273.27474486)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2019" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2021" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2024" fill="url(#SVGID_226_)" d="m269.6 494.7 3.1-1.1 2.5 2.1-.6 3.2-3 1.1-2.5-2.1z" />
+        <svg:radialGradient id="SVGID_227_" cx="369.0499" cy="60.226601" r="3.0488" gradientTransform="rotate(159.834 284.62619046 273.27474486)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2026" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2028" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2031" fill="url(#SVGID_227_)" d="m276.3 500.3 3.1-1.1 2.5 2-.6 3.3-3 1.1-2.5-2.1z" />
+        <svg:radialGradient id="SVGID_228_" cx="364.70291" cy="67.755898" r="3.0488" gradientTransform="rotate(159.834 284.62619046 273.27474486)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2033" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2035" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2038" fill="url(#SVGID_228_)" d="m277.8 491.7 3.1-1.1 2.5 2.1-.6 3.2-3.1 1.1-2.5-2.1z" />
+      </svg:g>
+      <svg:g id="g2067">
+        <svg:path id="line2042" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m254.39999 503.29999.20002 2.20001" />
+        <svg:path id="line2044" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M251.39999 502 249.7 503.20001" />
+        <svg:radialGradient id="SVGID_229_" cx="375.30341" cy="44.909" r="3.0488" gradientTransform="matrix(-.09334 -.9956 .9956 -.09334 244.4029 877.9543)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2046" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2048" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2051" fill="url(#SVGID_229_)" d="m256.7 498.2.3 3.3-2.6 1.8-3-1.3-.3-3.3 2.7-1.8z" />
+        <svg:radialGradient id="SVGID_230_" cx="370.95639" cy="37.3797" r="3.0488" gradientTransform="matrix(-.09334 -.9956 .9956 -.09334 244.4029 877.9543)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2053" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2055" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2058" fill="url(#SVGID_230_)" d="m249.7 503.2.3 3.3-2.7 1.9-3-1.4-.3-3.2 2.7-1.9z" />
+        <svg:radialGradient id="SVGID_231_" cx="366.60931" cy="44.909" r="3.0488" gradientTransform="matrix(-.09334 -.9956 .9956 -.09334 244.4029 877.9543)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2060" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2062" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2065" fill="url(#SVGID_231_)" d="m257.6 506.9.3 3.2-2.7 1.9-3-1.4-.3-3.2 2.7-1.9z" />
+      </svg:g>
+      <svg:g id="g2094">
+        <svg:path id="line2069" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m241.5 483.70001-2.10001-.40002" />
+        <svg:path id="line2071" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m243.7 481.20001-.80001-2.1" />
+        <svg:radialGradient id="SVGID_232_" cx="401.1843" cy="36.111599" r="3.0488" gradientTransform="rotate(10.517 -2111.9410563 -589.68706989)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2073" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2075" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2078" fill="url(#SVGID_232_)" d="m245.8 487.3-3.2-.6-1.1-3 2.2-2.5 3.2.6 1.1 3.1z" />
+        <svg:radialGradient id="SVGID_233_" cx="396.83731" cy="28.5823" r="3.0488" gradientTransform="rotate(10.517 -2111.9410563 -589.68706989)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2080" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2082" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2085" fill="url(#SVGID_233_)" d="m242.9 479.1-3.2-.6-1.1-3 2.2-2.5 3.2.6 1.1 3.1z" />
+        <svg:radialGradient id="SVGID_234_" cx="392.4902" cy="36.111599" r="3.0488" gradientTransform="rotate(10.517 -2111.9410563 -589.68706989)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2087" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2089" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2092" fill="url(#SVGID_234_)" d="m237.3 485.7-3.2-.5-1.1-3.1 2.1-2.5 3.2.6 1.1 3.1z" />
+      </svg:g>
+    </svg:g>
+    <svg:g id="GP120_10_">
+      <svg:path id="path2097" fill="#48a392" d="M244.5 496.9c8.5 5.1 20.3-11.2 12-14.8-4-1.7-9.9-2-12.6 1.9-2.2 3.5-3.9 10.2.6 12.9z" />
+      <svg:path id="path2099" fill="#48a392" d="M262.7 505.2c-9.4-3-4.9-22.7 3.2-18.8 3.9 1.9 8.1 6.1 6.8 10.7-1 4-5 9.7-10 8.1z" />
+      <svg:ellipse id="ellipse2101" cx="257.39999" cy="492.70001" fill="#44ad99" rx="7" ry="9.1999998" transform="rotate(-155.56 257.428552 492.693995)" />
+    </svg:g>
+  </svg:g>
+  <svg:g id="Spike_9_" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)">
+    <svg:g id="GP41_2_">
+      <svg:linearGradient id="SVGID_235_" x1="358.6777" x2="358.6777" y1="74.818001" y2="65.852501" gradientTransform="rotate(103.144 356.46305933 280.41634933)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop2105" offset="0" stop-color="#069393" />
+        <svg:stop id="stop2107" offset="1" stop-color="#03807f" />
+      </svg:linearGradient>
+      <svg:path id="path2110" fill="url(#SVGID_235_)" d="M537.9 328.7c1.2.6 2.4 1.3 3.8 1.5 2.1.3 4.1-.7 6.2-.7 1.9 0 3.7.8 5.5 1.4 2.6.9 5.2 1.4 7.9 2 .9.2 1.7.4 2.5.9.4.3.8.6 1.1.9 1.8 1.5 4.2 2.1 6.5 2.7 1.3.3 2.6.6 3.8.2.2-.1.5-.2.6-.4.2-.2.3-.5.4-.7.5-1.8.4-3.6-.1-5.4-.1-.2-.2-.5-.3-.7l-.6-.6c-2.1-1.3-4.8-.4-7.2 0-1.7.2-3.5.2-5.2-.2-1.1-.2-2.2-.6-3.3-.9-3.4-1.1-6.8-1.9-10.2-2.6-.4-.1-.8-.2-1.1-.3-.4-.2-.7-.6-1-1-1.3-1.5-2.9-3-4.9-3.4-1.4-.3-2.9-.1-4.3.2-.4.1-.8.2-1.2.5-.5.4-.7 1.1-.8 1.8-.2 1-.4 2.2.1 3.1.1.8 1 1.3 1.8 1.7z" />
+      <svg:linearGradient id="SVGID_236_" x1="358.43829" x2="358.43829" y1="60.547901" y2="56.573601" gradientTransform="rotate(103.144 356.46305933 280.41634933)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop2112" offset="0" stop-color="#159995" />
+        <svg:stop id="stop2114" offset="1" stop-color="#148d89" />
+      </svg:linearGradient>
+      <svg:path id="path2117" fill="url(#SVGID_236_)" d="M535.7 342c-1-.2-1.8-.8-2.6-1.4-.5-.4-1.1-.9-1.3-1.5-.2-.8.1-1.6.5-2.2 1-1.5 2.8-2.5 4.7-2.6 1.7-.1 3.5.6 5.2.4.7-.1 1.4-.4 2.1-.5.8-.1 1.5-.1 2.3-.1 5.8 0 10.2 1.6 15.7-.4.9-.3 1.7-.6 2.5-1.2l.9-.9c-.1-.4-.2-.8-.4-1.2-.4-.8-1-1.5-1.7-2.2-4.1-4.2-9-5.3-14.2-7.9-.7-.3-1.4-.6-2-1.1-.6-.4-1.1-1-1.7-1.4-1.4-1-3.3-1.1-4.8-2-1.6-.9-2.8-2.6-3-4.4-.1-.8 0-1.7.5-2.2.5-.5 1.1-.6 1.8-.8 1-.2 1.9-.3 2.9-.1 1.3.3 2.3 1.3 3.2 2.2l3.6 3.6c.3.3.6.6 1 .9.4.3.8.4 1.2.6 4.1 2 7.1 3.1 10.8 6.2 1.2 1 2 2.4 3.3 3.2 1.9 1.2 4.1 1.5 6.3 1.8 1.4.2 3.9.6 5.3.8l-3 12.7c-1.4-.5-3.7-1.1-5.1-1.6-2.1-.7-4.3-1.4-6.5-1.2-1.5.2-2.9 1.1-4.4 1.4-4.2.9-7.3.4-11.9.4h-1.4c-.4.1-.8.2-1.3.3-1.6.5-3.2 1.1-4.8 1.6-1 .6-2.4 1.1-3.7.8z" />
+    </svg:g>
+    <svg:g id="Glycosylation_2_">
+      <svg:g id="g2145">
+        <svg:path id="line2120" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m592.09998 349.39999 2.20001.4" />
+        <svg:path id="line2122" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m590 351.89999.79999 2" />
+        <svg:radialGradient id="SVGID_237_" cx="370.76599" cy="32.903999" r="3.0488" gradientTransform="matrix(-.9845 -.1756 .1756 -.9845 948.147 446.3425)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2124" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2126" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2129" fill="url(#SVGID_237_)" d="m587.8 345.8 3.2.5 1.1 3.1-2.1 2.5-3.2-.6-1.1-3z" />
+        <svg:radialGradient id="SVGID_238_" cx="366.41891" cy="25.374701" r="3.0488" gradientTransform="matrix(-.9845 -.1756 .1756 -.9845 948.147 446.3425)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2131" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2133" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2136" fill="url(#SVGID_238_)" d="m590.8 353.9 3.2.6 1.1 3.1-2.1 2.5-3.2-.6-1.1-3.1z" />
+        <svg:radialGradient id="SVGID_239_" cx="362.0719" cy="32.903999" r="3.0488" gradientTransform="matrix(-.9845 -.1756 .1756 -.9845 948.147 446.3425)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2138" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2140" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2143" fill="url(#SVGID_239_)" d="m596.4 347.3 3.2.6 1.1 3-2.1 2.5-3.2-.5-1.1-3.1z" />
+      </svg:g>
+      <svg:g id="g2172">
+        <svg:path id="line2147" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M595.59998 322.79999 596.79999 321" />
+        <svg:path id="line2149" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m597.09998 325.79999 2.10003.1" />
+        <svg:radialGradient id="SVGID_240_" cx="365.42651" cy="52.0308" r="3.0488" gradientTransform="rotate(123.807 406.6158166 249.75525701)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2151" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2153" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2156" fill="url(#SVGID_240_)" d="m590.6 325.3 1.8-2.7 3.2.2 1.5 3-1.9 2.7-3.2-.3z" />
+        <svg:radialGradient id="SVGID_241_" cx="361.0795" cy="44.501499" r="3.0488" gradientTransform="rotate(123.807 406.6158166 249.75525701)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2158" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2160" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2163" fill="url(#SVGID_241_)" d="m599.2 325.9 1.8-2.7 3.3.2 1.4 2.9-1.8 2.7-3.2-.2z" />
+        <svg:radialGradient id="SVGID_242_" cx="356.73251" cy="52.0308" r="3.0488" gradientTransform="rotate(123.807 406.6158166 249.75525701)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2165" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2167" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2170" fill="url(#SVGID_242_)" d="m595.4 318.1 1.8-2.7 3.3.2 1.4 2.9-1.8 2.7-3.3-.2z" />
+      </svg:g>
+      <svg:g id="g2199">
+        <svg:path id="line2174" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m583.5 318-1.20001-1.89999" />
+        <svg:path id="line2176" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M586.70001 317.89999 587.79999 316" />
+        <svg:radialGradient id="SVGID_243_" cx="373.397" cy="67.755898" r="3.0488" gradientTransform="matrix(.5218 .8531 -.8531 .5218 448.1201 -33.1434)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2178" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2180" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2183" fill="url(#SVGID_243_)" d="m583.6 323.6-1.7-2.8 1.6-2.8 3.2-.1 1.7 2.8-1.5 2.8z" />
+        <svg:radialGradient id="SVGID_244_" cx="369.0499" cy="60.226601" r="3.0488" gradientTransform="matrix(.5218 .8531 -.8531 .5218 448.1201 -33.1434)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2185" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2187" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2190" fill="url(#SVGID_244_)" d="m587.8 316-1.7-2.8 1.5-2.9 3.3-.1 1.7 2.8-1.6 2.9z" />
+        <svg:radialGradient id="SVGID_245_" cx="364.70291" cy="67.755898" r="3.0488" gradientTransform="matrix(.5218 .8531 -.8531 .5218 448.1201 -33.1434)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2192" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2194" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2197" fill="url(#SVGID_245_)" d="m579.1 316.2-1.7-2.8 1.5-2.9h3.3l1.7 2.7-1.6 2.9z" />
+      </svg:g>
+      <svg:g id="g2226">
+        <svg:path id="line2201" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m595.09998 336.89999 2-.69998" />
+        <svg:path id="line2203" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m594.29999 340 1.60003 1.5" />
+        <svg:radialGradient id="SVGID_246_" cx="375.30341" cy="44.909" r="3.0488" gradientTransform="rotate(163.355 462.19140507 207.2031753)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2205" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2207" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2210" fill="url(#SVGID_246_)" d="m589.6 335.6 3.1-1 2.4 2.3-.8 3.1-3.1 1-2.4-2.3z" />
+        <svg:radialGradient id="SVGID_247_" cx="370.95639" cy="37.3797" r="3.0488" gradientTransform="rotate(163.355 462.19140507 207.2031753)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2212" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2214" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2217" fill="url(#SVGID_247_)" d="m595.9 341.5 3.1-.9 2.4 2.2-.8 3.2-3.1.9-2.4-2.2z" />
+        <svg:radialGradient id="SVGID_248_" cx="366.60931" cy="44.909" r="3.0488" gradientTransform="rotate(163.355 462.19140507 207.2031753)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2219" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2221" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2224" fill="url(#SVGID_248_)" d="m597.9 333.1 3.1-1 2.4 2.3-.8 3.1-3.1 1-2.4-2.3z" />
+      </svg:g>
+      <svg:g id="g2253">
+        <svg:path id="line2228" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M579.90002 353.89999 580.29999 356" />
+        <svg:path id="line2230" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m576.90002 352.79999-1.70001 1.40002" />
+        <svg:radialGradient id="SVGID_249_" cx="399.94559" cy="37.595798" r="3.0488" gradientTransform="rotate(-100.09 620.81889002 118.99651172)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2232" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2234" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2237" fill="url(#SVGID_249_)" d="m581.8 348.6.6 3.2-2.5 2.1-3-1.1-.6-3.2 2.5-2.1z" />
+        <svg:radialGradient id="SVGID_250_" cx="395.59851" cy="30.0665" r="3.0488" gradientTransform="rotate(-100.09 620.81889002 118.99651172)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2239" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2241" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2244" fill="url(#SVGID_250_)" d="m575.2 354.2.6 3.2-2.5 2.1-3.1-1.1-.6-3.2 2.5-2.1z" />
+        <svg:radialGradient id="SVGID_251_" cx="391.2514" cy="37.595798" r="3.0488" gradientTransform="rotate(-100.09 620.81889002 118.99651172)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2246" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2248" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2251" fill="url(#SVGID_251_)" d="m583.4 357.1.5 3.3-2.5 2.1-3-1.2-.6-3.2 2.5-2.1z" />
+      </svg:g>
+    </svg:g>
+    <svg:g id="GP120_2_">
+      <svg:path id="path2256" fill="#48a392" d="M590.7 347.8c3.3-9.3-15-17.7-16.9-8.9-.9 4.2 0 10.1 4.4 11.9 3.8 1.6 10.8 1.9 12.5-3z" />
+      <svg:path id="path2258" fill="#48a392" d="M595.3 328.3c-1.1 9.8-21.3 9.2-19.1.5 1.1-4.2 4.4-9.1 9.2-8.8 4.1.4 10.5 3.1 9.9 8.3z" />
+      <svg:ellipse id="ellipse2260" cx="584" cy="336" fill="#44ad99" rx="7" ry="9.1999998" transform="rotate(103.144 584.02905902 335.98093341)" />
+    </svg:g>
+  </svg:g>
+  <svg:g id="Spike_10_" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)">
+    <svg:g id="GP41_9_">
+      <svg:linearGradient id="SVGID_252_" x1="358.6777" x2="358.6777" y1="74.818001" y2="65.852501" gradientTransform="rotate(148.32 356.45958822 280.40765842)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop2264" offset="0" stop-color="#069393" />
+        <svg:stop id="stop2266" offset="1" stop-color="#03807f" />
+      </svg:linearGradient>
+      <svg:path id="path2269" fill="url(#SVGID_252_)" d="M450.1 443.1c.4 1.3.8 2.6 1.6 3.7 1.3 1.7 3.4 2.5 4.8 3.9 1.3 1.4 2 3.2 2.9 4.9 1.2 2.4 2.7 4.7 4.1 7 .5.7.9 1.5 1.1 2.4.1.5.1 1 .2 1.4.2 2.3 1.5 4.5 2.7 6.5.7 1.1 1.4 2.3 2.6 2.9.2.1.4.2.7.2.3 0 .5-.1.8-.3 1.6-.9 2.9-2.3 3.7-3.9.1-.2.2-.5.3-.7 0-.3 0-.6-.1-.9-.6-2.4-3.1-3.7-5.1-5.2-1.4-1.1-2.6-2.4-3.6-3.8-.6-1-1.1-2-1.7-3-1.6-3.1-3.4-6.2-5.3-9.1-.2-.3-.4-.6-.5-1-.1-.5-.1-.9 0-1.4.2-2 .1-4.2-1-5.9-.8-1.2-1.9-2.2-3.2-2.9-.4-.2-.8-.4-1.2-.5-.7-.1-1.3.3-1.8.7-.9.6-1.8 1.2-2.2 2.2-.3 1-.1 2 .2 2.8z" />
+      <svg:linearGradient id="SVGID_253_" x1="358.43829" x2="358.43829" y1="60.547901" y2="56.573601" gradientTransform="rotate(148.32 356.45958822 280.40765842)" gradientUnits="userSpaceOnUse">
+        <svg:stop id="stop2271" offset="0" stop-color="#159995" />
+        <svg:stop id="stop2273" offset="1" stop-color="#148d89" />
+      </svg:linearGradient>
+      <svg:path id="path2276" fill="url(#SVGID_253_)" d="M439.2 451c-.5-.8-.7-1.8-.8-2.8-.1-.7-.1-1.3.2-1.9.4-.7 1.2-1.1 1.9-1.2 1.8-.4 3.8.2 5.2 1.5 1.3 1.2 2 2.9 3.4 3.9.6.4 1.3.7 1.9 1.1.6.4 1.1 1 1.7 1.6 4.1 4.2 6.1 8.3 11.3 10.9.8.4 1.7.8 2.6.9h1.2c.2-.4.4-.7.6-1.1.3-.9.3-1.8.4-2.7.1-5.8-2.6-10.1-4.5-15.6-.2-.7-.5-1.4-.6-2.2-.1-.7 0-1.5-.2-2.2-.3-1.7-1.5-3.1-2-4.8-.5-1.8-.1-3.8 1-5.3.5-.6 1.2-1.2 2-1.2.7 0 1.3.4 1.8.7.8.6 1.6 1.2 2.1 2 .7 1.1.7 2.5.7 3.8v5.1c0 .4 0 .9.1 1.3.1.5.2.9.4 1.3 1.5 4.4 2.8 7.2 3.2 12 .2 1.5-.3 3.1 0 4.6.5 2.2 1.8 4 3.2 5.8.9 1.2 2.3 3.2 3.1 4.3l-11.1 6.9c-.6-1.3-1.8-3.5-2.5-4.8-1-2-2-4-3.7-5.4-1.2-1-2.8-1.3-4.1-2.1-3.6-2.3-5.4-4.9-8.6-8.1-.3-.3-.6-.7-1-.9-.3-.3-.7-.5-1.1-.6-1.5-.8-3-1.5-4.5-2.3-1.4-.8-2.6-1.4-3.3-2.5z" />
+    </svg:g>
+    <svg:g id="Glycosylation_3_">
+      <svg:g id="g2304">
+        <svg:path id="line2279" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M473.70001 496.20001 474.89999 498" />
+        <svg:path id="line2281" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m470.39999 496.5-.89999 1.89999" />
+        <svg:radialGradient id="SVGID_254_" cx="370.76599" cy="32.903999" r="3.0488" gradientTransform="matrix(-.5694 -.822 .822 -.5694 655.8937 817.0347)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2283" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2285" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2288" fill="url(#SVGID_254_)" d="m473.2 490.6 1.9 2.7-1.4 2.9-3.3.3-1.8-2.7 1.4-3z" />
+        <svg:radialGradient id="SVGID_255_" cx="366.41891" cy="25.374701" r="3.0488" gradientTransform="matrix(-.5694 -.822 .822 -.5694 655.8937 817.0347)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2290" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2292" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2295" fill="url(#SVGID_255_)" d="m469.5 498.4 1.8 2.7-1.3 3-3.3.2-1.9-2.7 1.4-2.9z" />
+        <svg:radialGradient id="SVGID_256_" cx="362.0719" cy="32.903999" r="3.0488" gradientTransform="matrix(-.5694 -.822 .822 -.5694 655.8937 817.0347)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2297" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2299" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2302" fill="url(#SVGID_256_)" d="m478.2 497.7 1.8 2.7-1.4 2.9-3.2.3-1.9-2.7 1.4-2.9z" />
+      </svg:g>
+      <svg:g id="g2331">
+        <svg:path id="line2306" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m495 479.89999 2.10001-.39999" />
+        <svg:path id="line2308" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m493.89999 483 1.4 1.70001" />
+        <svg:radialGradient id="SVGID_257_" cx="365.42651" cy="52.0308" r="3.0488" gradientTransform="matrix(-.9816 .1911 -.1911 -.9816 860.4124 461.801)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2310" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2312" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2315" fill="url(#SVGID_257_)" d="m489.6 478.1 3.2-.6 2.2 2.4-1.1 3.1-3.2.6-2.1-2.4z" />
+        <svg:radialGradient id="SVGID_258_" cx="361.0795" cy="44.501499" r="3.0488" gradientTransform="matrix(-.9816 .1911 -.1911 -.9816 860.4124 461.801)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2317" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2319" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2322" fill="url(#SVGID_258_)" d="m495.3 484.7 3.2-.7 2.2 2.5-1.1 3.1-3.2.6-2.1-2.5z" />
+        <svg:radialGradient id="SVGID_259_" cx="356.73251" cy="52.0308" r="3.0488" gradientTransform="matrix(-.9816 .1911 -.1911 -.9816 860.4124 461.801)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2324" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2326" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2329" fill="url(#SVGID_259_)" d="m498.2 476.4 3.2-.6 2.1 2.5-1 3.1-3.2.6-2.2-2.5z" />
+      </svg:g>
+      <svg:g id="g2358">
+        <svg:path id="line2333" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m488.60001 467.20001.19998-2.1" />
+        <svg:path id="line2335" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m491.20001 469.10001 2-.80002" />
+        <svg:radialGradient id="SVGID_260_" cx="372.47601" cy="69.296501" r="3.0488" gradientTransform="matrix(-.1134 .9936 -.9936 -.1134 599.2958 108.23)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2337" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2339" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2342" fill="url(#SVGID_260_)" d="m485.2 471.7.4-3.2 3-1.3 2.6 2-.4 3.2-2.9 1.3z" />
+        <svg:radialGradient id="SVGID_261_" cx="368.12891" cy="61.7672" r="3.0488" gradientTransform="matrix(-.1134 .9936 -.9936 -.1134 599.2958 108.23)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2344" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2346" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2349" fill="url(#SVGID_261_)" d="m493.2 468.3.4-3.3 3-1.3 2.6 2-.4 3.2-3 1.3z" />
+        <svg:radialGradient id="SVGID_262_" cx="363.78189" cy="69.296501" r="3.0488" gradientTransform="matrix(-.1134 .9936 -.9936 -.1134 599.2958 108.23)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2351" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2353" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2356" fill="url(#SVGID_262_)" d="m486.2 463.1.4-3.2 3-1.3 2.6 1.9-.4 3.3-3 1.3z" />
+      </svg:g>
+      <svg:g id="g2385">
+        <svg:path id="line2360" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M484.60001 489.39999 486.5 490.5" />
+        <svg:path id="line2362" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="M481.89999 491.10001v2.19998" />
+        <svg:radialGradient id="SVGID_263_" cx="375.30341" cy="44.909" r="3.0488" gradientTransform="rotate(-151.474 484.84160773 252.84996708)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2364" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2366" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2369" fill="url(#SVGID_263_)" d="m481.7 484.6 2.8 1.6.1 3.2-2.7 1.7-2.9-1.5-.1-3.3z" />
+        <svg:radialGradient id="SVGID_264_" cx="370.95639" cy="37.3797" r="3.0488" gradientTransform="rotate(-151.474 484.84160773 252.84996708)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2371" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2373" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2376" fill="url(#SVGID_264_)" d="m481.9 493.3 2.9 1.6.1 3.2-2.8 1.7-2.9-1.5-.1-3.3z" />
+        <svg:radialGradient id="SVGID_265_" cx="366.60931" cy="44.909" r="3.0488" gradientTransform="rotate(-151.474 484.84160773 252.84996708)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2378" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2380" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2383" fill="url(#SVGID_265_)" d="m489.3 488.8 2.9 1.5.1 3.3-2.8 1.7-2.9-1.6-.1-3.2z" />
+      </svg:g>
+      <svg:g id="g2412">
+        <svg:path id="line2387" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m461.10001 489.10001-1.5 1.6" />
+        <svg:path id="line2389" fill="none" stroke="#bababa" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.1322" d="m460.29999 486-2.09998-.60001" />
+        <svg:radialGradient id="SVGID_266_" cx="401.1843" cy="36.111599" r="3.0488" gradientTransform="rotate(-45.6 968.3315488 187.4180583)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2391" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2393" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2396" fill="url(#SVGID_266_)" d="m466.6 487.6-2.3 2.3-3.2-.8-.8-3.1 2.2-2.3 3.2.8z" />
+        <svg:radialGradient id="SVGID_267_" cx="396.83731" cy="28.5823" r="3.0488" gradientTransform="rotate(-45.6 968.3315488 187.4180583)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2398" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2400" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2403" fill="url(#SVGID_267_)" d="m458.2 485.4-2.3 2.4-3.2-.8-.9-3.2 2.3-2.3 3.2.8z" />
+        <svg:radialGradient id="SVGID_268_" cx="392.4902" cy="36.111599" r="3.0488" gradientTransform="rotate(-45.6 968.3315488 187.4180583)" gradientUnits="userSpaceOnUse">
+          <svg:stop id="stop2405" offset="0" stop-color="#d1d1d1" />
+          <svg:stop id="stop2407" offset="1" stop-color="#c2c4c6" />
+        </svg:radialGradient>
+        <svg:path id="polygon2410" fill="url(#SVGID_268_)" d="m460.5 493.8-2.3 2.3-3.1-.8-.9-3.1 2.3-2.3 3.1.8z" />
+      </svg:g>
+    </svg:g>
+    <svg:g id="GP120_9_">
+      <svg:path id="path2415" fill="#48a392" d="M473.8 494.1c9-4.2 2-23.1-5.6-18.2-3.6 2.3-7.2 7.1-5.4 11.5 1.6 3.7 6.3 8.9 11 6.7z" />
+      <svg:path id="path2417" fill="#48a392" d="M490.8 483.6c-7.8 6.1-21.6-8.6-13.8-13.2 3.7-2.2 9.6-3.3 12.7.3 2.7 3.1 5.2 9.6 1.1 12.9z" />
+      <svg:ellipse id="ellipse2419" cx="477.5" cy="481" fill="#44ad99" rx="7" ry="9.1999998" transform="rotate(148.32 477.47666358 480.97333534)" />
+    </svg:g>
+  </svg:g>
+  <svg:path id="host_protein_4_" fill="#a7a9ac" stroke-width="1.0977596" d="M273.13002 64.572333c0-.329148 0-.658296.10984-.987444.3295-.658296 1.20819-.987443 1.97704-1.097159 1.53771-.329148 3.40492-.54858 4.28361.768011.54918.768012.43934 1.755456.32951 2.742899-.21968 2.413751-.32951 4.827502.21967 7.131537.43934 2.084604 1.42787 4.059491 2.08688 6.034378.65902 2.084603.65902 4.278922.76885 6.473242.10984.658295.10984 1.426307-.10983 2.084603-.21967.658296-.76885 1.316591-1.42787 1.316591-.76885.109716-1.42787-.438864-1.86721-1.097159-.43935-.658296-.43935-1.426308-.43935-2.194319-.10983-1.64574-.3295-3.291479-.65901-4.937219-.10984-.548579-.21967-1.206875-.43935-1.755455-.21967-.768012-.65901-1.536023-1.09836-2.304035-1.09836-2.413751-.65901-6.363525-3.0754-9.545288-.43935-.54858-.54918-1.64574-.65902-2.633183z" />
+  <svg:path id="host_protein_3_" fill="#a7a9ac" stroke-width="1.0977596" d="M472.37251 469.75336c.21968.21943.43935.54858.43935.87772.10983.76802-.43935 1.42631-.98853 1.97489-1.09836 1.09716-2.52622 2.30404-3.95409 1.75546-.87869-.32915-1.31803-1.20688-1.75738-2.08461-1.09836-2.0846-2.41639-4.1692-4.2836-5.70523-1.64754-1.4263-3.51475-2.41375-5.16229-3.84005-1.75738-1.3166-2.96558-3.18177-4.39344-4.82751-.43935-.54858-.87869-1.09716-1.09836-1.75545-.21968-.6583-.10984-1.42631.3295-1.86517.54918-.54858 1.42787-.43887 2.08689-.10972.65901.32915 1.20819.98744 1.64754 1.53602 1.09836 1.3166 2.19672 2.52347 3.29508 3.73035.43934.43886.87869.87772 1.31803 1.20687.65902.43887 1.42787.87773 2.19672 1.20688 2.30656 1.31659 4.17377 4.93722 7.90819 6.14409 1.09836.21943 1.86721.98745 2.41639 1.75546z" />
+  <svg:path id="host_protein_2_" fill="#a7a9ac" stroke-width="1.0977596" d="M188.66614 493.23257c-.21967.21943-.43934.54858-.76885.6583-.65902.32915-1.5377-.10972-2.19672-.43887-1.31803-.76801-2.85574-1.86517-2.63606-3.40119.10983-.87773.87868-1.64574 1.64754-2.19432 1.75737-1.53602 3.51475-3.29148 4.61311-5.4858.98852-1.86517 1.64754-3.94977 2.52623-5.92466.87868-1.97489 2.41639-3.62063 3.73442-5.37608.43934-.54858.87869-1.09716 1.42787-1.42631.54918-.32915 1.42786-.43886 1.97704-.10971.65902.43886.76886 1.31659.65902 2.0846-.21967.76801-.65902 1.31659-1.09836 1.97489-.98852 1.31659-1.97705 2.74289-2.85573 4.05949-.32951.54858-.65902.98744-.87869 1.53602-.32951.76801-.43935 1.53602-.76885 2.41375-.76886 2.52347-3.84426 5.15665-4.17377 9.10642 0 .87773-.65902 1.75546-1.2082 2.52347z" />
+  <svg:path id="host_protein_1_" fill="#a7a9ac" stroke-width="1.0977596" d="M549.91672 317.57732c.32951.10972.65902.10972.87869.32915.54918.43887.65902 1.42631.54918 2.19432-.10983 1.53603-.43934 3.4012-1.86721 3.94978-.87869.32914-1.86721-.10972-2.7459-.43887-2.19672-.87773-4.50327-1.64574-6.91967-1.64574-2.19672-.10971-4.2836.32915-6.37048.43887-2.19672.10971-4.39344-.54858-6.48033-.87773-.65901-.10972-1.31803-.21943-1.97705-.6583-.54918-.32914-.98852-.98744-.98852-1.75545.10984-.76801.76885-1.31659 1.5377-1.42631.76886-.10972 1.53771 0 2.19672.10972 1.64754.32914 3.29508.54858 4.94262.65829.54918.10972 1.2082.10972 1.75738.10972.87869-.10972 1.64754-.32915 2.41639-.43887 2.63607-.43886 6.37049 1.09716 9.99508-.43886 1.09836-.43886 2.08688-.32915 3.0754-.10972z" />
+  <svg:path id="host_protein_14_" fill="#a7a9ac" stroke-width="1.0977596" d="M401.19879 76.750804c.10984-.329148.32951-.54858.65902-.768012.65901-.438863 1.5377-.219432 2.19672 0 1.42786.54858 3.18524 1.316592 3.29507 2.852615 0 .987444-.54918 1.755456-1.09836 2.523467-1.42786 1.865172-2.74589 3.949775-3.51475 6.25381-.65901 2.084601-.87868 4.169211-1.31803 6.253811-.54918 2.0846-1.75737 4.05949-2.63606 5.92466-.32951.658295-.65902 1.206875-1.09836 1.645735-.54918.43886-1.31803.6583-1.86721.43886-.65902-.32914-.98853-1.09716-.98853-1.86517 0-.768005.43935-1.426305.76885-2.084595.76886-1.53602 1.42787-2.96233 1.97705-4.60807.21967-.54858.43935-1.09716.54918-1.64574.21967-.76801.21967-1.64574.21967-2.413752.32951-2.633183 2.7459-5.814946 2.30656-9.76472-.32951-.877728.10984-1.865171.54918-2.742899z" />
+  <svg:path id="host_protein" fill="#a7a9ac" stroke-width="1.0977596" d="M82.015394 273.80066c-.32951 0-.65901-.10972-.98852-.32915-.65902-.43886-.65902-1.31659-.65902-2.0846 0-1.53603.21967-3.4012 1.64754-3.94978.87869-.32915 1.86721 0 2.7459.32915 2.30656.76801 4.613111 1.42631 7.029501 1.31659 2.19672 0 4.28361-.54858 6.37049-.76801 2.196715-.21943 4.393435.32915 6.480325.6583.65901.10971 1.42786.21943 1.97704.54858.54918.32914 1.09836.98744.98853 1.64573-.10984.76802-.76885 1.3166-1.42787 1.53603-.65902.21943-1.5377.10971-2.19672 0-1.64754-.21943-3.29508-.32915-4.942615-.43887h-1.75738c-.76885.10972-1.64754.32915-2.41639.54858-2.63606.54858-6.370481-.76801-9.995071.87773-.87869.43887-1.86721.32915-2.85574.10972z" />
+  <svg:g id="Lipidbilayer" opacity=".5" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)">
+    <svg:g id="g2448">
+      <svg:path id="path2446" fill="#58595b" d="M356.5 473.1c-43.9-.2-87.1-15.1-121.3-42.9-33.9-27.5-57.4-65.9-67-108.4-9.8-43.4-3.5-90 16.8-129.5 19.8-38.6 52.5-69.3 91.7-87.5 40.4-18.8 87.4-22 130.3-10.5 41.5 11.1 78.8 36.7 104.3 71.2 26.6 35.9 39.6 80 37.6 124.6-1.9 43.7-19.7 86-48.8 118.6-35.9 40.2-87.7 63.5-141.6 64.3-11.4.2-11.4 17.8 0 17.6 46.1-.6 90.8-16.2 127.2-44.5C521 418.6 546.8 380 559 337c12.6-44.5 9.7-93.2-7.8-135.9-17-41.6-47.1-76.8-85.3-100.3-39.1-24.1-86.2-34.4-131.8-29.5-45.3 4.8-87.9 24.5-121.3 55.4-32.8 30.4-55.3 71.7-63.3 115.6-8.4 45.9-1.1 93.6 20.2 135.1 35.5 69.2 109.2 113.1 186.7 113.4 11.4 0 11.4-17.6.1-17.7z" />
+    </svg:g>
+    <svg:g id="g2452">
+      <svg:path id="path2450" fill="#808285" d="M356.5 476.1c-44.8-.2-88.5-15.5-123.3-43.7-34.2-27.8-58.1-66.7-67.8-109.7-9.9-44.2-3.6-91.5 17.1-131.7 20-39 53.1-70.1 92.8-88.5 41.1-19.1 88.9-22.5 132.6-10.8 42.2 11.3 80.1 37.5 106 72.6 26.9 36.3 40 81 38 126.1-2 44.5-20 87.5-49.6 120.7-36.4 40.8-89.1 64.4-143.7 65.1-7.6.1-7.6 11.8 0 11.7 45.3-.6 89.4-15.8 125.1-43.7 35-27.2 60.5-65.2 72.5-107.8 12.4-44 9.5-92.1-7.8-134.4-16.7-40.8-46.4-75.4-83.9-98.6-38.7-23.9-85.2-33.9-130.3-29.1-44.5 4.7-86.4 24.1-119.2 54.5-32.5 30.1-54.6 70.8-62.5 114.3-8.2 45.1-1.1 92.1 19.9 132.8 35.1 68.4 107.6 111.7 184.2 111.9 7.4 0 7.4-11.7-.1-11.7z" />
+    </svg:g>
+  </svg:g>
+  <svg:switch fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" word-spacing="0">
+    <svg:text xml:space="preserve" id="text2255-as" x="369.2485" y="35.070328" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="as" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2253-as" x="369.2485" y="35.070328" stroke-width="1.0977596" font-size="20.4915123">
+        স্পাইক গ্লাইক'প্ৰ'টিন S
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2255-km" x="369.2485" y="35.070328" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="km" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2253-km" x="369.2485" y="35.070328" stroke-width="1.0977596" font-size="20.4915123">
+        គ្លីកូប្រូតេអ៊ីនកណ្ដក S
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2255-pl" x="369.2485" y="35.070328" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="pl" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2253-pl" x="369.2485" y="35.070328" stroke-width="1.0977596" font-size="20.4915123">
+        glikoproteina S
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2255-ms" x="369.2485" y="35.070328" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="ms" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2253-ms" x="369.2485" y="35.070328" stroke-width="1.0977596" font-size="20.4915123">
+        Glikoprotein Bulir S
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2255-tr" x="369.2485" y="35.070328" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="tr" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2253-tr" x="369.2485" y="35.070328" stroke-width="1.0977596" font-size="20.4915123">
+        Spike Glikoprotein (S)
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2255" x="369.2485" y="35.070328" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2253" x="369.2485" y="35.070328" stroke-width="1.0977596" font-size="20.4915123">
+        Spike Glycoprotein S
+      </svg:tspan>
+    </svg:text>
+  </svg:switch>
+  <svg:switch fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" word-spacing="0">
+    <svg:text xml:space="preserve" id="text2259-as" x="522.17261" y="111.04537" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="as" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2257-as" x="522.17261" y="111.04537" stroke-width="1.0977596" font-size="20.4915123">
+        মেম্‌ব্ৰেন প্ৰ'টিন M
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2259-km" x="522.17261" y="111.04537" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="km" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2257-km" x="522.17261" y="111.04537" stroke-width="1.0977596" font-size="20.4915123">
+        ប្រូតេអ៊ីនភ្នាស M
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2259-pl" x="522.17261" y="111.04537" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="pl" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2257-pl" x="522.17261" y="111.04537" stroke-width="1.0977596" font-size="20.4915123">
+        białko M
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2259-ms" x="522.17261" y="111.04537" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="ms" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2257-ms" x="522.17261" y="111.04537" stroke-width="1.0977596" font-size="20.4915123">
+        Protein Membran M
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2259-tr" x="522.17261" y="111.04537" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="tr" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2257-tr" x="522.17261" y="111.04537" stroke-width="1.0977596" font-size="20.4915123">
+        Membran Proteini (M)
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2259" x="522.17261" y="111.04537" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2257" x="522.17261" y="111.04537" stroke-width="1.0977596" font-size="20.4915123">
+        Membrane Protein M
+      </svg:tspan>
+    </svg:text>
+  </svg:switch>
+  <svg:switch fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" word-spacing="0">
+    <svg:text xml:space="preserve" id="text2263-as" x="475.13864" y="78.361382" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="as" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2261-as" x="475.13864" y="78.361382" stroke-width="1.0977596" font-size="20.4915123">
+        E প্ৰ'টিন
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2263-km" x="475.13864" y="78.361382" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="km" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2261-km" x="475.13864" y="78.361382" stroke-width="1.0977596" font-size="20.4915123">
+        ប្រូតេអ៊ីនស្រោម E
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2263-pl" x="475.13864" y="78.361382" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="pl" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2261-pl" x="475.13864" y="78.361382" stroke-width="1.0977596" font-size="20.4915123">
+        białko płaszcza E
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2263-ms" x="475.13864" y="78.361382" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="ms" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2261-ms" x="475.13864" y="78.361382" stroke-width="1.0977596" font-size="20.4915123">
+        Protein E
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2263-tr" x="475.13864" y="78.361382" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="tr" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2261-tr" x="475.13864" y="78.361382" stroke-width="1.0977596" font-size="20.4915123">
+        Zarf Proteini (E)
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2263" x="475.13864" y="78.361382" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2261" x="475.13864" y="78.361382" stroke-width="1.0977596" font-size="20.4915123">
+        E Protein
+      </svg:tspan>
+    </svg:text>
+  </svg:switch>
+  <svg:switch fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" word-spacing="0">
+    <svg:text xml:space="preserve" id="text2267-as" x="554.44965" y="149.7032" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="as" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2265-as" x="554.44965" y="149.7032" stroke-width="1.0977596" font-size="20.4915123">
+        আৰ এন এ জিন'ম
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2267-km" x="554.44965" y="149.7032" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="km" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2265-km" x="554.44965" y="149.7032" stroke-width="1.0977596" font-size="20.4915123">
+        សែណូម ARN
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2267-pl" x="554.44965" y="149.7032" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="pl" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2265-pl" x="554.44965" y="149.7032" stroke-width="1.0977596" font-size="20.4915123">
+        genom RNA
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2267-ms" x="554.44965" y="149.7032" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="ms" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2265-ms" x="554.44965" y="149.7032" stroke-width="1.0977596" font-size="20.4915123">
+        Genom RNA
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2267-tr" x="554.44965" y="149.7032" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="tr" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2265-tr" x="554.44965" y="149.7032" stroke-width="1.0977596" font-size="20.4915123">
+        RNA Genomu
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text2267" x="554.44965" y="149.7032" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan2265" x="554.44965" y="149.7032" stroke-width="1.0977596" font-size="20.4915123">
+        RNA genome
+      </svg:tspan>
+    </svg:text>
+  </svg:switch>
+  <svg:path id="path2270" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="m402.83289 35.694713-30.64397-.707416" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)" />
+  <svg:path id="path2274" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M373.8889 30.487297c-.19635.379612-.23522.837716-.10563 1.244982.12958.407266.42603.758678.80564.955028.37961.19635.83772.235218 1.24498.105632.40727-.129586.75868-.42603.95503-.805642.19635-.379612.23522-.837716.10563-1.244982-.12958-.407266-.42603-.758678-.80564-.955028-.37961-.19635-.83772-.235218-1.24498-.105632-.40727.129586-.75868.42603-.95503.805642z" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)" />
+  <svg:path id="path2278" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M543.02584 106.67848 520.4 119.5" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)" />
+  <svg:path id="path2286" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M500.43557 75.623083 440 82.7" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)" />
+  <svg:path id="path2290" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M461.3945 56.102547Z" transform="matrix(1.09836 0 0 1.09716 -75.928763 -11.899689)" />
+  <svg:switch fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" word-spacing="0">
+    <svg:text xml:space="preserve" id="text3074-as" x="587.68439" y="407.7113" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="as" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan3072-as" x="587.68439" y="407.7113" stroke-width="1.0977596" font-size="20.4915123">
+        এন্‌ভেল'প
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text3074-km" x="587.68439" y="407.7113" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="km" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan3072-km" x="587.68439" y="407.7113" stroke-width="1.0977596" font-size="20.4915123">
+        ស្រោម
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text3074-pl" x="587.68439" y="407.7113" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="pl" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan3072-pl" x="587.68439" y="407.7113" stroke-width="1.0977596" font-size="20.4915123">
+        płaszcz
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text3074-ms" x="587.68439" y="407.7113" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="ms" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan3072-ms" x="587.68439" y="407.7113" stroke-width="1.0977596" font-size="20.4915123">
+        Sampul
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text3074-tr" x="587.68439" y="407.7113" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" systemLanguage="tr" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan3072-tr" x="587.68439" y="407.7113" stroke-width="1.0977596" font-size="20.4915123">
+        Zarf
+      </svg:tspan>
+    </svg:text>
+    <svg:text xml:space="preserve" id="text3074" x="587.68439" y="407.7113" fill="#000" fill-opacity="1" stroke="none" stroke-width="1.0977596" font-family="Arial" font-size="43.91038513" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:Arial" transform="scale(1.00055 .99945)" word-spacing="0">
+      <svg:tspan id="tspan3072" x="587.68439" y="407.7113" stroke-width="1.0977596" font-size="20.4915123">
+        Envelope
+      </svg:tspan>
+    </svg:text>
+  </svg:switch>
+  <svg:path id="path3076" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="m583.494848 401.091733-74.16155 5.31097" />
+  <svg:path id="path1141" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="m103.43217 297.14977 3.54078 2.12447z" />
+  <svg:g id="g2255" transform="matrix(1.34758 0 0 1.41318 -128.73584 -126.4237)">
+    <svg:ellipse id="ellipse1051" cx="-41.092316" cy="368.30627" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse1073" cx="254.49815" cy="356.88907" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:path id="path1101" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M248.604299 359.46757c-3.90955-2.74112-8.99655-3.73734-13.65126-2.67341-4.65471 1.06393-8.80377 4.17125-11.13422 8.33866-.25771.46085-.4941.93363-.70816 1.41631" />
+    <svg:path id="path1105" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M239.398269 345.30443c2.20409 2.31388 3.54808 5.42906 3.719 8.62012.17091 3.19106-.83263 6.43197-2.77696 8.96805-1.94433 2.53607-4.81356 4.34662-7.93958 5.01003-3.12601.66342-6.4833.17428-9.29007-1.3535-2.27987-1.24098-4.18159-3.14139-5.50752-5.37293-1.32594-2.23153-2.08236-4.78586-2.2822-7.37389-.41822-5.41614 1.69285-10.9751 5.60083-14.74833 3.90798-3.77322 9.53757-5.688 14.93571-5.08006" />
+    <svg:path id="path1109" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M293.218179 384.96121Z" />
+    <svg:path id="path1113" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M235.857479 333.97392c-.0294 3.1542-1.14358 6.28825-3.11173 8.75325-1.96815 2.46501-4.77779 4.24529-7.84722 4.97226-3.06942.72697-6.3791.396-9.24379-.92439-2.86469-1.32038-5.26617-3.62178-6.70722-6.42771-1.30485-2.54072-1.82036-5.47994-1.45802-8.31307.36234-2.83313 1.60097-5.54801 3.50325-7.67856 1.90228-2.13055 4.46004-3.66763 7.23419-4.34737 2.77414-.67973 5.75276-.4992 8.4245.51061" />
+    <svg:path id="path1121" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M226.651439 320.51894Z" />
+    <svg:path id="path1125" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M226.651439 320.51894z" />
+    <svg:path id="path1129" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M202.574109 324.05973Z" />
+    <svg:path id="path1147" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M199.033329 312.72922c.33991-2.696 1.46836-5.28781 3.21028-7.37339 1.74193-2.08558 4.09127-3.65767 6.6836-4.47241 2.59232-.81473 5.41862-.86927 8.04045-.15515 2.62182.71411 5.03007 2.1944 6.85116 4.21122 2.50995 2.77973 3.85879 6.57669 3.66498 10.31691-.1938 3.74021-1.92784 7.37743-4.71165 9.88286-2.78381 2.50543-6.58296 3.84808-10.32286 3.6482-3.73989-.19989-7.37428-1.93985-9.87518-4.72773" />
+    <svg:path id="path1151" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M196.200699 283.69478c.7122-2.81797 2.3455-5.39519 4.58972-7.24225 2.24423-1.84705 5.08749-2.95414 7.98983-3.11102 2.90233-.15689 5.84836.63727 8.27861 2.23165 2.43025 1.59439 4.33184 3.98054 5.34364 6.70532 1.14748 3.09017 1.13237 6.59671-.0417 9.67688-1.17408 3.08017-3.49688 5.70708-6.41014 7.2494-2.91327 1.54231-6.39159 1.98658-9.59899 1.22602-3.20741-.76055-6.11591-2.7193-8.02649-5.40548" />
+    <svg:path id="path1155" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M202.574109 252.53589c2.08923-2.586378 5.02792-4.47483 8.24853-5.300636 3.2206-.825806 6.70541-.584427 9.7814.677518 3.07599 1.261945 5.72626 3.537522 7.43895 6.387248 1.7127 2.84972 2.4784 6.25792 2.14924 9.56638-.35441 3.56223-1.98184 6.98455-4.52125 9.50774-2.53941 2.52319-5.9721 4.12865-9.53652 4.46023-3.56443.33157-7.23435-.61319-10.19559-2.62468-2.96123-2.0115-5.19199-5.07493-6.19738-8.51066" />
+    <svg:path id="path1159" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M208.947519 238.372758c-1.72502 6.073933-.53632 12.906948 3.13858 18.041482 3.67491 5.13454 9.75938 8.46354 16.06509 8.78969 6.30571.32616 12.70118-2.35732 16.88622-7.08531 4.18503-4.72799 6.07237-11.401898 4.98321-17.621392-.73845-4.216831-2.79701-8.192708-5.8143-11.229643-3.01728-3.036934-6.97971-5.121264-11.19166-5.887073-4.21195-.765809-8.65447-.209652-12.54764 1.570835-3.89318 1.780487-7.21951 4.777294-9.39502 8.464313" />
+    <svg:path id="path1163" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M240.814579 200.840449c3.49054-.374616 7.07867.203816 10.27466 1.656351 3.19599 1.452534 5.99134 3.775301 8.00453 6.651287 2.01319 2.875986 3.23886 6.297528 3.50973 9.797651.27086 3.500123-.41379 7.069501-1.96053 10.220982-2.06963 4.216882-5.69633 7.647458-10.02165 9.479701-4.32532 1.832242-9.31271 2.050672-13.78165.603587-4.46894-1.447085-8.38167-4.54746-10.81204-8.567258-2.43038-4.019798-3.35785-8.92506-2.5629-13.554696" />
+    <svg:path id="path1167" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M264.183749 191.988489c5.67274 1.304711 10.78257 4.904848 13.92032 9.80758 3.13775 4.902732 4.26668 11.050647 3.07545 16.748299-1.36573 6.532318-5.7979 12.355176-11.73057 15.411291s-13.24689 3.284211-19.35846.603699c-6.11156-2.680512-10.89794-8.215886-12.66805-14.650412-1.77011-6.434526-.48845-13.639188 3.39214-19.068497" />
+    <svg:path id="path1171" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M298.883429 181.720216c3.67278 4.517227 5.43536 10.538901 4.77801 16.323585-.65735 5.784684-3.7261 11.257343-8.31879 14.835313-3.29346 2.565796-7.33254 4.162689-11.49016 4.542752-4.15761.380063-8.41929-.458026-12.12337-2.384151-3.70409-1.926124-6.83769-4.933578-8.91431-8.55544-2.07661-3.621861-3.089-7.845522-2.88-12.015237" />
+    <svg:path id="path1175" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M312.338409 176.054962c3.9831-.161974 8.00681.849627 11.43972 2.876056 3.43291 2.026429 6.2628 5.060472 8.04556 8.626005 1.78277 3.565533 2.51208 7.649864 2.07348 11.61205-.43861 3.962185-2.04355 7.788121-4.56299 10.877414-3.5909 4.4031-9.05044 7.229264-14.71875 7.619244-5.66831.389979-11.46346-1.661863-15.62353-5.531697-4.16008-3.869834-6.62495-9.501731-6.64521-15.183403-.0203-5.681673 2.40437-11.331008 6.53674-15.230415" />
+    <svg:path id="path1179" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M347.746249 214.295427c3.62394 1.027869 7.54732.974362 11.14188-.151953 3.59456-1.126314 6.84695-3.321254 9.23635-6.233334s3.90694-6.530488 4.3096-10.275792c.40267-3.745304-.31103-7.603597-2.02681-10.957035-1.95927-3.829336-5.22489-6.975102-9.12478-8.789879-3.89989-1.814776-8.40955-2.287163-12.60086-1.319938-4.1913.967224-8.03792 3.367982-10.7482 6.708183-2.71028 3.340201-4.26719 7.598859-4.35031 11.899516" />
+    <svg:path id="path1183" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M332.874959 210.754644c4.80181-2.552146 8.48645-7.126323 9.95754-12.361471 1.47108-5.235148.70833-11.059051-2.06132-15.738789-2.76964-4.679739-7.50796-8.150759-12.80505-9.380247-5.2971-1.229489-11.0799-.200486-15.62772 2.780825-3.81246 2.49925-6.7341 6.328816-8.13734 10.6661-1.40323 4.337284-1.27843 9.152464.34762 13.41123" />
+    <svg:ellipse id="ellipse1069" cx="41.071815" cy="406.73947" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse1071" cx="39.749374" cy="421.73935" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse1053" cx="-52.735165" cy="357.04642" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse1079" cx="316.81595" cy="216.71745" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1077" cx="333.07043" cy="216.71745" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1075" cx="348.61673" cy="220.25822" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1047" cx="360.68854" cy="179.18513" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1045" cx="346.52539" cy="176.35251" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1067" cx="44.212048" cy="390.90427" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69237643" rx="6.2313876" ry="6.7230749" transform="rotate(-29.887)" />
+    <svg:ellipse id="ellipse1065" cx="47.592499" cy="375.68933" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse1063" cx="54.520706" cy="362.29056" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse1061" cx="67.327515" cy="351.45654" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse1059" cx="-100.22166" cy="338.73096" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse1057" cx="-83.34391" cy="342.06219" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse1055" cx="-68.734543" cy="349.96231" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse80" cx="219.79851" cy="367.51141" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse78" cx="4.3873997" cy="413.58871" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse76" cx="5.7098408" cy="398.58887" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse74" cx="8.8339939" cy="382.82367" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69237643" rx="6.2313876" ry="6.7230749" transform="rotate(-29.887)" />
+    <svg:ellipse id="ellipse72" cx="12.230516" cy="367.53873" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse70" cx="19.158724" cy="354.13992" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse68" cx="26.091928" cy="340.73251" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.21" ry="6.6999998" transform="rotate(-30)" />
+    <svg:ellipse id="ellipse66" cx="-134.1115" cy="302.69305" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse64" cx="-118.67549" cy="297.86185" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse62" cx="-102.44144" cy="295.82919" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse58" cx="-87.434853" cy="296.94482" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse56" cx="-73.199966" cy="298.53104" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" transform="rotate(-60)" />
+    <svg:ellipse id="ellipse126" cx="233.25346" cy="203.26247" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse124" cx="247.38347" cy="194.76459" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse122" cx="260.8053" cy="189.80748" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1035" cx="275.00156" cy="184.14223" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1037" cx="289.1647" cy="178.47697" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1039" cx="303.32782" cy="174.93619" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1041" cx="318.19913" cy="172.81172" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1043" cx="331.65408" cy="173.51988" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:ellipse id="ellipse1049" cx="374.14352" cy="183.43407" fill="#e0ffe8" stroke="#95b5ad" stroke-miterlimit="10" stroke-width=".69" rx="6.6999998" ry="6.21" />
+    <svg:path id="path1187" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="M356.598209 184.552843c1.7455 2.925074 2.63403 6.354709 2.52839 9.759363-.10563 3.404653-1.20507 6.772609-3.12855 9.583846-1.92347 2.811238-4.66438 5.056084-7.7995 6.387929-3.13513 1.331845-6.65369 1.746105-10.01241 1.178819-3.51026-.592882-6.83202-2.258026-9.40745-4.715801-2.57542-2.457775-4.39395-5.698105-5.1502-9.176834-.75624-3.478729-.4471-7.181596.87551-10.486769 1.3226-3.305174 3.65326-6.199104 6.60057-8.195807" />
+  </svg:g>
+  <svg:path id="path2261" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="m583.494848 401.091733-74.16155 5.31097" />
+  <svg:path id="path2265" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1" d="m549.61451 143.85207-169.52845 9.07545" />
+</svg:svg>

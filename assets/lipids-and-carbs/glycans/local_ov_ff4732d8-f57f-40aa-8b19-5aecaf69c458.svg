@@ -1,0 +1,5 @@
+﻿<svg width="242mm" height="434mm" version="1.1" viewBox="0 0 242 434" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g font-family="Arial" font-size="42px" text-anchor="middle">
+ <g id="a"><text x="184" y="210">H</text><text x="31" y="210">HO</text><path d="m115 214v31m17-50h36m-104 0h34" stroke="#000" stroke-width="3" /></g>
+ <use transform="matrix(-1 0 0 1 230 68)" xlink:href="#a" /><use transform="matrix(-1 0 0 1 230 141)" xlink:href="#a" /><use transform="matrix(-1 0 0 1 230 -71)" xlink:href="#a" /><path d="m132 60h35m-35-12h35m-94-20 27 16m15 60v-30" stroke="#000" stroke-width="3" /><text x="115" y="139">C</text><text x="115" y="209">C</text><text x="115" y="279">C</text><text x="115" y="352">C</text><text x="171" y="422">CH<tspan dy="9" font-size="32px">2</tspan><tspan dy="-9">OH</tspan></text><text x="115" y="69">C</text><text x="185" y="67">O</text><text x="57" y="33">H</text>
+ <g fill="#00f" font-size="27px"><text x="127" y="38">1</text><text x="127" y="106">2</text><text x="127" y="178">3</text><text x="127" y="249">4</text><text x="127" y="320">5</text><text x="127" y="388">6</text></g></g></svg>

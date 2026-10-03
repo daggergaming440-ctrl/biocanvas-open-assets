@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 180">
+  <!-- Plate Frame -->
+  <rect x="10" y="10" width="240" height="160" rx="8" fill="#f8fafc" stroke="#64748b" stroke-width="4" />
+  <rect x="16" y="16" width="228" height="148" rx="6" fill="none" stroke="#cbd5e1" stroke-width="2" />
+  <!-- 4x6 sample representation of wells -->
+  <g fill="#e0f2fe" stroke="#0284c7" stroke-width="2">
+    <circle cx="40" cy="42" r="11" /><circle cx="75" cy="42" r="11" /><circle cx="110" cy="42" r="11" /><circle cx="145" cy="42" r="11" /><circle cx="180" cy="42" r="11" /><circle cx="215" cy="42" r="11" />
+    <circle cx="40" cy="72" r="11" /><circle cx="75" cy="72" r="11" fill="#fde047" /><circle cx="110" cy="72" r="11" fill="#fde047" /><circle cx="145" cy="72" r="11" /><circle cx="180" cy="72" r="11" /><circle cx="215" cy="72" r="11" />
+    <circle cx="40" cy="102" r="11" /><circle cx="75" cy="102" r="11" fill="#fde047" /><circle cx="110" cy="102" r="11" fill="#f97316" /><circle cx="145" cy="102" r="11" /><circle cx="180" cy="102" r="11" /><circle cx="215" cy="102" r="11" />
+    <circle cx="40" cy="132" r="11" /><circle cx="75" cy="132" r="11" /><circle cx="110" cy="132" r="11" /><circle cx="145" cy="132" r="11" /><circle cx="180" cy="132" r="11" /><circle cx="215" cy="132" r="11" />
+  </g>
+</svg>

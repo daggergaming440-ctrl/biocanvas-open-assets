@@ -1,0 +1,181 @@
+﻿<svg width="480" height="810" version="1.1" viewBox="0 0 127 214.3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(0 -82.69)" fill="#000" font-family="sans-serif" font-size="3">
+<text x="82" y="225">CO2</text>
+<text x="46" y="155">or valine-pyruvate<tspan x="46" y="159">transaminase</tspan></text>
+<text x="55" y="141">BCAT</text>
+<text x="33" y="172">ketopantoate<tspan x="33" y="176">hydroxymethyltransferase</tspan></text>
+<text x="33" y="123">dihydroxy-acid<tspan x="33.155945" y="126.51878">dehydratase</tspan></text>
+<text x="4" y="216">NADPH + H<tspan dy="-2">+</tspan></text>
+<text x="11" y="227">NADP<tspan dy="-2">+</tspan></text>
+<text x="2" y="167">CH<tspan dy="1">2</tspan><tspan dy="-1">-H</tspan><tspan dy="1">4</tspan><tspan dy="-1">-folate</tspan><tspan x="2" y="171">+ H<tspan dy="1">2</tspan><tspan dy="-1">O</tspan></tspan></text>
+<text x="7" y="180">H<tspan dy="1">4</tspan><tspan dy="-1">-folate</tspan></text>
+<text x="51" y="251">ATP</text>
+<text x="31" y="263">AMP + PPi + H<tspan dy="-2">+</tspan></text>
+<text x="15" y="129">H<tspan dy="1">2</tspan><tspan dy="-1">O</tspan></text>
+<text x="51" y="295">(R)-pantothenate</text>
+<text x="101" y="218">aspartate<tspan x="101" y="221">1-decarboxylase</tspan></text>
+<text x="33" y="217">ketopantoate reductase<tspan x="33" y="220.3">or</tspan><tspan x="33" y="224">ketol-acid reductoisomerase</tspan></text>
+<text x="8" y="115">α,β-dihydroxyisovalerate</text>
+<text x="17" y="162">α-ketoisovalerate</text>
+<text x="82" y="162">L-valine</text>
+<text x="84" y="208">L-aspartate</text>
+<text x="23" y="210">α-ketopantoate</text>
+<text x="67" y="255">pantothenate<tspan x="67" y="258">synthase</tspan></text>
+<text x="19" y="253">(R)-pantoate</text>
+<text x="90" y="254">β-alanine</text>
+<text x="86" y="215">H<tspan dy="-1">+</tspan></text>
+<path id="c" d="m8.2 193.5v3.5" stroke="#000" stroke-width=".3px" />
+<path id="b" d="m10.7 193.5v3.5" stroke="#000" stroke-width=".3px" />
+<path id="a" d="m8.2 195.2h2.4" stroke="#000" stroke-width=".3px" />
+<path id="x" d="m37.3 279 4.2-2.4 6.9 4 7-4 7 4 4-2.3" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="k" d="m42.9 286 5.5-5.5 5.4 5.5" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="y" d="m61.2 280v5.3" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="z" d="m62.7 280v5.3" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="j" d="m67 278.6v-3.471l2.5 3.2v-3.5" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="d" d="m102.8 239.5v5.2" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="e" d="m104.3 239.5v5.2" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="l" d="m79.48 237.3c0.4887-0.8482 1.157-0.3107 1.157-0.3107s0.6431 0.572 0 1.216c-0.6431 0.6444-1.043 1.046-1.043 1.046h1.436" fill="none" stroke="#000" stroke-width=".3" />
+<path id="m" d="m14.11 144.5 6.702 3.869 6.774-3.911 6.801 3.927 4.355-2.514" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="w" d="m54.49 271.8h1.425l-0.7907 4.761z" />
+<path id="f" d="m52.54 143-2.496 1.441 2.496 1.441" />
+<path id="g" d="m28.23 129.2 1.441 2.496 1.441-2.496" />
+<path id="h" d="m29.67 119.5v10.41" fill="none" stroke="#000" stroke-width=".3px" />
+<path id="i" d="m59.18 250.2a5.908 5.908 0 0 1 5.908 5.908 5.908 5.908 0 0 1-5.908 5.908" fill="none" stroke="#000" stroke-width=".3" />
+<ellipse id="p" cx="61.88" cy="287.9" rx="1.5" ry="1.7" fill="none" stroke="#000" stroke-width=".3" />
+<ellipse id="o" cx="55.29" cy="269" rx="1.5" ry="1.7" fill="none" stroke="#000" stroke-width=".3" />
+<ellipse id="n" cx="35.03" cy="280.7" rx="1.5" ry="1.7" fill="none" stroke="#000" stroke-width=".3" />
+<use transform="translate(.105 -47.23)" xlink:href="#d" />
+<use transform="translate(.105 -47.23)" xlink:href="#e" />
+<use transform="translate(-62.99 -45.01)" xlink:href="#d" />
+<use transform="translate(-62.99 -45.01)" xlink:href="#e" />
+<use transform="translate(-69.71 -53.3)" xlink:href="#d" />
+<use transform="translate(-69.71 -53.3)" xlink:href="#e" />
+<use transform="translate(-69.26 -91.42)" xlink:href="#d" />
+<use transform="translate(-69.26 -91.42)" xlink:href="#e" />
+<use transform="translate(-76.01 -99.84)" xlink:href="#d" />
+<use transform="translate(-76.01 -99.84)" xlink:href="#e" />
+<use transform="translate(-69.18 -138.4)" xlink:href="#d" />
+<use transform="translate(-69.18 -138.4)" xlink:href="#e" />
+<use id="v" transform="translate(21.21 85.37)" xlink:href="#c" />
+<use id="u" transform="translate(21.21 85.37)" xlink:href="#b" />
+<use id="t" transform="translate(21.21 85.37)" xlink:href="#a" />
+<use id="s" transform="translate(49.82 73.6)" xlink:href="#c" />
+<use id="r" transform="translate(49.82 73.6)" xlink:href="#b" />
+<use id="q" transform="translate(49.82 73.6)" xlink:href="#a" />
+<use transform="translate(58.98 76.26)" xlink:href="#c" />
+<use transform="translate(58.98 76.26)" xlink:href="#b" />
+<use transform="translate(58.98 76.26)" xlink:href="#a" />
+<use transform="translate(14.84 -40.67)" xlink:href="#j" />
+<use transform="translate(21.6 -75.93)" xlink:href="#j" />
+<use transform="translate(18.45 -138.9)" xlink:href="#j" />
+<use transform="translate(67.77 40.74)" xlink:href="#c" />
+<use transform="translate(67.77 40.74)" xlink:href="#b" />
+<use transform="translate(67.77 40.74)" xlink:href="#a" />
+<use transform="translate(84.75 5.554)" xlink:href="#c" />
+<use transform="translate(84.75 5.554)" xlink:href="#b" />
+<use transform="translate(84.75 5.554)" xlink:href="#a" />
+<use transform="translate(63.26 -2.136)" xlink:href="#c" />
+<use transform="translate(63.26 -2.136)" xlink:href="#b" />
+<use transform="translate(63.26 -2.136)" xlink:href="#a" />
+<use transform="translate(81.57 -57.61)" xlink:href="#c" />
+<use transform="translate(81.57 -57.61)" xlink:href="#b" />
+<use transform="translate(81.57 -57.61)" xlink:href="#a" />
+<path d="m67.09 148.1 2.496 1.441-2.496 1.441" />
+<g stroke-width=".3px" fill="none" stroke="#000">
+<path d="m112.5 234.5h2" />
+<path d="m90 192.7v5.5" />
+<path d="m88 280.1v5" />
+<path d="m89.4 280.1v5" />
+<path d="m112 187.8h2" />
+<path d="m102 144.1h2" />
+<path d="m43 96.05h2" />
+<path d="m43 143.2h2" />
+<path d="m49 189.9h2" />
+<path d="m49 236h2" />
+<path d="m98 275.2h2" />
+<path d="m50 149.5h17" />
+<path d="m87 145.2v-4.6" />
+<path d="m80 149.2v5.5" />
+<path d="m21 148.4v5.5" />
+<path d="m69.44 144.4h-17.13" />
+<path d="m54.52 244 10.57 7.338 10.57-7.338" />
+<path d="m29.62 122.9a5.908 5.908 0 0 1-5.908 5.908" />
+<path d="m71.66 278.1 3.901 2.252 6.639-3.833 6.84 3.949 4.264-2.462" />
+<path d="m85.93 237.4 4.231 2.443 6.727-3.884 6.812 3.933 4.143-2.392" />
+<path d="m27.64 97.51v-8.025" fill="none" stroke="#000" stroke-width=".3" />
+<path d="m78.98 191.3 4.392-2.535 6.791 3.921 6.746-3.895 6.762 3.904 4.122-2.38" />
+<path d="m15.92 193.5 4.452-2.57 6.843 3.951 6.672-3.852 6.704 3.871 4.262-2.461" />
+<ellipse cx="27.51" cy="86.9" rx="1.5" ry="1.7" />
+<ellipse cx="11.4" cy="96.99" rx="1.5" ry="1.7" />
+<ellipse cx="47" cy="238.3" rx="1.5" ry="1.7" />
+<ellipse cx="41" cy="203" rx="1.5" ry="1.7" />
+<ellipse cx="47" cy="191.2" rx="1.5" ry="1.7" />
+<ellipse cx="33.6" cy="183.5" rx="1.5" ry="1.7" />
+<ellipse cx="14" cy="195.3" rx="1.5" ry="1.7" />
+<ellipse cx="41" cy="144.6" rx="1.5" ry="1.7" />
+<ellipse cx="34.3" cy="156.1" rx="1.5" ry="1.7" />
+<ellipse cx="27.7" cy="136.8" rx="1.5" ry="1.7" />
+<ellipse cx="34" cy="109" rx="1.5" ry="1.7" />
+<ellipse cx="41" cy="97" rx="1.5" ry="1.7" />
+<ellipse cx="93.6" cy="157" rx="1.5" ry="1.7" />
+<ellipse cx="100" cy="145" rx="1.5" ry="1.7" />
+<ellipse cx="77" cy="193" rx="1.5" ry="1.7" />
+<ellipse cx="104" cy="201" rx="1.5" ry="1.7" />
+<ellipse cx="104" cy="201" rx="1.5" ry="1.7" />
+<ellipse cx="83.4" cy="181" rx="1.5" ry="1.7" />
+<ellipse cx="110" cy="189" rx="1.5" ry="1.7" />
+<ellipse cx="110" cy="236" rx="1.5" ry="1.7" />
+<ellipse cx="103.5" cy="248" rx="1.5" ry="1.7" />
+<ellipse cx="96" cy="277" rx="1.5" ry="1.7" />
+<ellipse cx="89" cy="288" rx="1.5" ry="1.7" />
+</g>
+<use transform="translate(-10 -90.6)" xlink:href="#d" />
+<use transform="translate(-10 -90.6)" xlink:href="#e" />
+<use transform="translate(-20 -55.53)" xlink:href="#d" />
+<use transform="translate(-20 -55.53)" xlink:href="#e" />
+<use transform="translate(59.3 .7)" xlink:href="#m" />
+<use transform="translate(0 -47)" xlink:href="#m" />
+<use transform="translate(-21 -38)" xlink:href="#x" />
+<use transform="translate(-21 -38)" xlink:href="#y" />
+<use transform="translate(-21 -38)" xlink:href="#z" />
+<use transform="translate(-21 -38)" xlink:href="#v" />
+<use transform="translate(-21 -38)" xlink:href="#u" />
+<use transform="translate(-21 -38)" xlink:href="#t" />
+<use transform="translate(-21 -38)" xlink:href="#s" />
+<use transform="translate(-21 -38)" xlink:href="#r" />
+<use transform="translate(-21 -38)" xlink:href="#q" />
+<use transform="translate(-21 -38)" xlink:href="#p" />
+<use transform="translate(-21 -38)" xlink:href="#o" />
+<use transform="translate(-21 -38)" xlink:href="#n" />
+<use transform="translate(-21 -38)" xlink:href="#w" />
+<use transform="translate(-21 -38)" xlink:href="#k" />
+<use transform="translate(-21.3 -85.4)" xlink:href="#k" />
+<use transform="translate(-27.6 -179)" xlink:href="#k" />
+<use transform="translate(0 48)" xlink:href="#h" />
+<use transform="translate(0 48)" xlink:href="#g" />
+<use transform="translate(0 94.6)" xlink:href="#h" />
+<use transform="translate(0 94.6)" xlink:href="#g" />
+<use transform="translate(67.5 94.6)" xlink:href="#h" />
+<use transform="translate(67.5 94.6)" xlink:href="#g" />
+<use transform="translate(-2 -98)" xlink:href="#c" />
+<use transform="translate(-2 -98)" xlink:href="#b" />
+<use transform="translate(-2 -98)" xlink:href="#a" />
+<use transform="translate(35.4 131.8)" xlink:href="#h" />
+<use transform="translate(35.4 131.8)" xlink:href="#g" />
+<use transform="translate(7.0 117.6)" xlink:href="#f" />
+<use transform="translate(-35.5 -36.3)" xlink:href="#i" />
+<use transform="translate(-27.7 81.2)" xlink:href="#f" />
+<use transform="translate(-35.5 -83.1)" xlink:href="#i" />
+<use transform="translate(-27.7 34.3)" xlink:href="#f" />
+<use transform="translate(-27.6 -15.8)" xlink:href="#f" />
+<use transform="translate(22 -108)" xlink:href="#c" />
+<use transform="translate(22 -108)" xlink:href="#b" />
+<use transform="translate(22 -108)" xlink:href="#a" />
+<use transform="translate(32 -37)" xlink:href="#i" />
+<use transform="translate(40 80.6)" xlink:href="#f" />
+</g>
+<g transform="translate(0 -82.69)">
+<use transform="translate(13.78 -985)" xlink:href="#l" />
+<use transform="translate(17.03 -35.17)" xlink:href="#l" />
+</g>
+</svg>

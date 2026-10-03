@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 280">
+  <defs>
+    <linearGradient id="pipetteBody" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e2e8f0" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#cbd5e1" />
+    </linearGradient>
+  </defs>
+  <!-- Plunger Button -->
+  <rect x="38" y="10" width="24" height="14" rx="4" fill="#3b82f6" stroke="#1d4ed8" stroke-width="2" />
+  <rect x="46" y="24" width="8" height="12" fill="#94a3b8" />
+  <!-- Body / Handle -->
+  <path d="M 32,36 L 68,36 L 64,150 L 36,150 Z" fill="url(#pipetteBody)" stroke="#475569" stroke-width="3" />
+  <!-- Digital Volume Window -->
+  <rect x="40" y="65" width="20" height="32" rx="3" fill="#0f172a" stroke="#64748b" stroke-width="1.5" />
+  <text x="50" y="86" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">100</text>
+  <!-- Tip Ejector Button -->
+  <rect x="26" y="45" width="8" height="16" rx="2" fill="#ef4444" />
+  <!-- Shaft -->
+  <rect x="44" y="150" width="12" height="65" fill="#64748b" stroke="#334155" stroke-width="2" />
+  <!-- Disposable Pipette Tip -->
+  <polygon points="42,215 58,215 52,270 48,270" fill="#93c5fd" stroke="#2563eb" stroke-width="2" opacity="0.85" />
+</svg>

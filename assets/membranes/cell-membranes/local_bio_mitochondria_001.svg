@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <defs>
+    <linearGradient id="mitoOuter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#c2410c" />
+    </linearGradient>
+    <linearGradient id="mitoMatrix" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="100%" stop-color="#fde047" />
+    </linearGradient>
+  </defs>
+  <!-- Outer Membrane -->
+  <path d="M 40,100 C 40,40 100,20 160,20 C 220,20 280,40 280,100 C 280,160 220,180 160,180 C 100,180 40,160 40,100 Z" fill="url(#mitoOuter)" stroke="#9a3412" stroke-width="6" />
+  <!-- Intermembrane Space & Matrix -->
+  <path d="M 52,100 C 52,48 106,32 160,32 C 214,32 268,48 268,100 C 268,152 214,168 160,168 C 106,168 52,152 52,100 Z" fill="url(#mitoMatrix)" stroke="#ea580c" stroke-width="4" />
+  <!-- Inner Membrane Cristae Convolutions -->
+  <path d="M 70,100 C 70,60 110,50 130,50 C 130,75 105,85 105,100 C 105,115 130,125 130,150 C 110,150 70,140 70,100 Z" fill="#fed7aa" stroke="#c2410c" stroke-width="3.5" />
+  <path d="M 130,45 C 150,45 160,70 160,100 C 160,130 150,155 130,155 C 145,135 145,115 145,100 C 145,85 145,65 130,45 Z" fill="#fed7aa" stroke="#c2410c" stroke-width="3.5" />
+  <path d="M 175,45 C 190,45 200,65 200,100 C 200,135 190,155 175,155 C 185,130 185,115 185,100 C 185,85 185,70 175,45 Z" fill="#fed7aa" stroke="#c2410c" stroke-width="3.5" />
+  <path d="M 215,55 C 235,55 250,75 250,100 C 250,125 235,145 215,145 C 228,130 228,115 228,100 C 228,85 228,70 215,55 Z" fill="#fed7aa" stroke="#c2410c" stroke-width="3.5" />
+  <!-- Matrix granules -->
+  <circle cx="115" cy="75" r="3" fill="#7c2d12" />
+  <circle cx="175" cy="125" r="3" fill="#7c2d12" />
+  <circle cx="205" cy="80" r="2.5" fill="#7c2d12" />
+  <circle cx="145" cy="135" r="2.5" fill="#7c2d12" />
+</svg>

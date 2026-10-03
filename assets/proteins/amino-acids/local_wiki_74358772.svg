@@ -1,0 +1,204 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:lucid="lucid" width="1666" height="1253.18" viewBox="0 0 1666 1253.18">
+  <g transform="translate(-47 48.18098958333326)" lucid:page-tab-id="0eqBfotfVGlV">
+    <path d="M0 0h1760v1360H0z" fill="#fff" />
+    <path d="M1424.5 700c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5h-170c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#a" transform="matrix(1,0,0,1,1429.5,700) translate(2.037037037037024 170.66666666666669)" />
+    <path d="M1424.5 425c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5h-170c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#b" transform="matrix(1,0,0,1,1429.5,425) translate(8.259259259259252 170.66666666666669)" />
+    <path d="M1614.5 795c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#ffeca9" stroke-width="2" fill="url(#c)" />
+    <path d="M77 700c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5H82c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#b" transform="matrix(1,0,0,1,82,700) translate(8.259259259259252 170.66666666666669)" />
+    <path d="M337 420c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5H342c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#b" transform="matrix(1,0,0,1,342,420) translate(8.259259259259252 170.66666666666669)" />
+    <path d="M337 700c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5H342c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#d" transform="matrix(1,0,0,1,342,700) translate(8.259259259259252 170.66666666666669)" />
+    <path d="M697 420c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5H702c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#b" transform="matrix(1,0,0,1,702,420) translate(8.259259259259252 170.66666666666669)" />
+    <path d="M697 700c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5H702c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#e" transform="matrix(1,0,0,1,702,700) translate(8.259259259259252 170.66666666666669)" />
+    <path d="M697 980c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5H702c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#f" transform="matrix(1,0,0,1,702,980) translate(8.259259259259252 170.66666666666669)" />
+    <path d="M1057 700c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5h-170c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#e" transform="matrix(1,0,0,1,1062,700) translate(8.259259259259252 170.66666666666669)" />
+    <path d="M1057 420c0-2.76 2.24-5 5-5h170c2.76 0 5 2.24 5 5v190c0 2.76-2.24 5-5 5h-170c-2.76 0-5-2.24-5-5z" stroke="#000" stroke-opacity="0" stroke-width="2" fill="#fff" fill-opacity="0" />
+    <use xlink:href="#a" transform="matrix(1,0,0,1,1062,420) translate(2.037037037037024 170.66666666666669)" />
+    <path d="M267.88 795H337" stroke="#000" stroke-width="5" fill="none" />
+    <path d="M267.88 797.5h-1.16l.15-2.16.07-2.84h.94z" />
+    <path />
+    <path d="M427 615v80" stroke="#000" stroke-width="5" fill="none" />
+    <path />
+    <path />
+    <path d="M527.88 795H697" stroke="#000" stroke-width="5" fill="none" />
+    <path d="M527.88 797.5h-1.16l.15-2.16.07-2.84h.94z" />
+    <path />
+    <path d="M787 615v80" stroke="#000" stroke-width="5" fill="none" />
+    <path />
+    <path />
+    <path d="M787 895v80" stroke="#000" stroke-width="5" fill="none" />
+    <path />
+    <path />
+    <path d="M890.5 795H1057" stroke="#000" stroke-width="5" fill="none" />
+    <path d="M890.5 797.5h-1.06l.06-2.5-.06-2.5h1.06z" />
+    <path />
+    <path d="M1253 795h160.5" stroke="#000" stroke-width="5" fill="none" />
+    <path d="M1253 797.5h-1.06l.06-2.5-.06-2.5h1.06zM1414.5 795l.06 2.5h-1.06v-5h1.06z" />
+    <path d="M1152 615v80M1142 615v80" stroke="#000" stroke-width="5" fill="none" />
+    <path />
+    <path />
+    <g fill="none">
+      <path d="M72 379c-2.76 0-5-2.24-5-5V180c0-2.76 2.24-5 5-5h450c2.76 0 5 2.24 5 5v194c0 2.76-2.24 5-5 5z" />
+      <path d="M527 379c0-15.88-12.87-28.75-28.75-28.75h-172.5c-15.88 0-28.75-12.87-28.75-28.75 0 15.88-12.87 28.75-28.75 28.75H95.75C79.87 350.25 67 363.12 67 379" stroke="#99d5ca" stroke-width="10" />
+    </g>
+    <use xlink:href="#g" transform="matrix(1,2.4492935982947064e-16,-2.4492935982947064e-16,1,72.00000000000014,179.99999999999997) translate(28.515625 76.78645833333334)" />
+    <use xlink:href="#h" transform="matrix(1,2.4492935982947064e-16,-2.4492935982947064e-16,1,72.00000000000014,179.99999999999997) translate(240.39713541666669 76.78645833333334)" />
+    <g fill="none">
+      <path d="M1052 383c-2.76 0-5-2.24-5-5V200c0-2.76 2.24-5 5-5h636c2.76 0 5 2.24 5 5v178c0 2.76-2.24 5-5 5z" />
+      <path d="M1693 383c0-22.3-18.08-40.38-40.38-40.38h-242.24c-22.3 0-40.38-18.07-40.38-40.37 0 22.3-18.08 40.38-40.38 40.38h-242.24c-22.3 0-40.38 18.07-40.38 40.37" stroke="#ffeca9" stroke-width="10" />
+    </g>
+    <use xlink:href="#i" transform="matrix(1,2.4492935982947064e-16,-2.4492935982947064e-16,1,1052,200) translate(61.294270833333314 61.848958333333336)" />
+    <use xlink:href="#j" transform="matrix(1,2.4492935982947064e-16,-2.4492935982947064e-16,1,1052,200) translate(393.6184895833333 61.848958333333336)" />
+    <path d="M917 980c0-2.76 2.24-5 5-5h390c2.76 0 5 2.24 5 5v200c0 2.76-2.24 5-5 5H922c-2.76 0-5-2.24-5-5z" fill="none" />
+    <path d="M917 1185c7.25 0 13.13-5.88 13.13-13.13v-78.74c0-7.25 5.87-13.13 13.12-13.13-7.25 0-13.13-5.88-13.13-13.13v-78.74c0-7.25-5.87-13.13-13.12-13.13" stroke="#c92d39" stroke-width="10" fill="none" />
+    <use xlink:href="#k" transform="matrix(1,0,0,1,961.375,980) translate(15.229817708333314 122.78645833333334)" />
+    <use xlink:href="#l" transform="matrix(1,0,0,1,961.375,980) translate(164.09049479166666 122.78645833333334)" />
+    <path d="M527 790c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#b391b5" stroke-width="2" fill="url(#m)" />
+    <path d="M267 790c0 58-44.77 105-100 105S67 848 67 790s44.77-105 100-105 100 47 100 105z" stroke="#49c1a1" stroke-width="2" fill="url(#n)" />
+    <path d="M527 520c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#49c1a1" stroke-width="2" fill="url(#o)" />
+    <path d="M889.5 795c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#3aa6dd" stroke-width="2" fill="url(#p)" />
+    <path d="M887 1080c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#c92d39" stroke-width="2" fill="url(#q)" />
+    <path d="M887 520c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#49c1a1" stroke-width="2" fill="url(#r)" />
+    <path d="M1247 520c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#ffeca9" stroke-width="2" fill="url(#s)" />
+    <path d="M1252 795c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#3aa6dd" stroke-width="2" fill="url(#t)" />
+    <path d="M1614.5 520c0 58-44.77 105-100 105s-100-47-100-105 44.77-105 100-105 100 47 100 105z" stroke="#ffeca9" stroke-width="2" fill="url(#u)" />
+    <path d="M1514.5 689v-63" stroke="#000" stroke-width="5" fill="none" />
+    <path d="M1517 690.06l-2.5-.06-2.5.06V689h5zM1514.5 625l2.5-.06V626h-5v-1.06z" />
+    <defs>
+      <path fill="#333" d="M140-251c80 0 125 45 125 126S219 4 139 4C58 4 15-44 15-125s44-126 125-126zm-1 214c52 0 73-35 73-88 0-50-21-86-72-86-52 0-73 35-73 86s22 88 72 88" id="v" />
+      <use transform="matrix(0.5925925925925927,0,0,0.5925925925925927,0,0)" xlink:href="#v" id="a" />
+      <path fill="#333" d="M186 0v-106H76V0H24v-248h52v99h110v-99h50V0h-50" id="w" />
+      <use transform="matrix(0.5925925925925927,0,0,0.5925925925925927,0,0)" xlink:href="#w" id="b" />
+      <radialGradient gradientUnits="userSpaceOnUse" id="c" fx="1514.5" fy="795" cx="1514.5" cy="795" r="107.83">
+        <stop offset="0%" stop-color="#ffedac" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#ffeca9" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#fce9a7" />
+      </radialGradient>
+      <path fill="#333" d="M175 0L67-191c6 58 2 128 3 191H24v-248h59L193-55c-6-58-2-129-3-193h46V0h-61" id="x" />
+      <use transform="matrix(0.5925925925925927,0,0,0.5925925925925927,0,0)" xlink:href="#x" id="d" />
+      <path fill="#333" d="M67-125c0 53 21 87 73 88 37 1 54-22 65-47l45 17C233-25 199 4 140 4 58 4 20-42 15-125 8-235 124-281 211-232c18 10 29 29 36 50l-46 12c-8-25-30-41-62-41-52 0-71 34-72 86" id="y" />
+      <use transform="matrix(0.5925925925925927,0,0,0.5925925925925927,0,0)" xlink:href="#y" id="e" />
+      <path fill="#333" d="M240-174c0 40-23 61-54 70L253 0h-59l-57-94H76V0H24v-248c93 4 217-23 216 74zM76-134c48-2 112 12 112-38 0-48-66-32-112-35v73" id="z" />
+      <use transform="matrix(0.5925925925925927,0,0,0.5925925925925927,0,0)" xlink:href="#z" id="f" />
+      <path fill="#333" d="M952-300H426L326 0H7l542-1456h278L1372 0h-319zM507-543h364l-183-545" id="A" />
+      <path fill="#333" d="M741-689c-2-124-40-177-163-178-82 0-141 34-178 102V0H111v-1082h271l9 121c77-94 180-141 311-141 139 0 235 55 287 165 76-110 184-165 325-165 249 0 348 151 348 411V0h-290v-690c-2-123-39-176-163-177-87 0-147 41-180 124l1 743H741v-689" id="B" />
+      <path fill="#333" d="M416 0H126v-1082h290V0zM271-1212c-92 0-162-61-162-150s68-149 162-149c93 0 162 60 162 149s-70 150-162 150" id="C" />
+      <path fill="#333" d="M750-692c-1-124-48-174-173-175-81 0-142 35-183 104V0H105v-1082h272l9 125c77-97 181-145 311-145 244 0 342 151 342 403V0H750v-692" id="D" />
+      <path fill="#333" d="M579 20C257 20 58-214 66-551c8-331 182-551 511-551 324 0 514 231 514 572 0 319-198 550-512 550zm-2-888c-169 0-222 141-222 338 0 181 61 317 224 317 170 0 223-137 223-338 0-178-64-317-225-317" id="E" />
+      <g id="g">
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,0,0)" xlink:href="#A" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,44.856770833333336,0)" xlink:href="#B" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,102.57161458333334,0)" xlink:href="#C" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,120.24739583333334,0)" xlink:href="#D" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,157.58463541666669,0)" xlink:href="#E" />
+      </g>
+      <path fill="#333" d="M399-777c-11 316 60 556 342 556 113 0 193-24 241-72v-251H709v-221h573v581C1177-55 960 24 725 20 280 12 81-292 94-770c11-421 200-700 610-706 347-5 543 171 578 483H990c-25-157-105-241-277-241-102 0-180 38-233 115s-76 191-81 342" id="F" />
+      <path fill="#333" d="M719-811c-143-24-279 1-319 103V0H111v-1082h273l8 129c74-124 180-175 331-136" id="G" />
+      <path fill="#333" d="M463 20c-241-1-359-147-359-393v-709h289v699c0 113 51 169 154 169 98 0 165-34 202-102v-766h290V0H767l-8-110C688-23 589 20 463 20" id="H" />
+      <path fill="#333" d="M663-1102c295 0 422 250 422 571 0 300-141 549-420 551-109 0-198-38-265-114v510H111v-1498h268l10 106c70-84 161-126 274-126zm133 550c0-175-53-315-209-315-91 0-153 35-187 104v443c35 71 98 107 189 107 138 0 207-113 207-339" id="I" />
+      <g id="h">
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,0,0)" xlink:href="#F" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,45.41015625,0)" xlink:href="#G" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,68.5546875,0)" xlink:href="#E" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,106.24999999999999,0)" xlink:href="#H" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,143.5546875,0)" xlink:href="#I" />
+      </g>
+      <path fill="#333" d="M687-225c189-1 272-84 286-260h300c-19 311-251 505-586 505C296 20 86-277 86-686c0-466 174-782 605-790 340-6 557 198 584 514H975c-15-183-92-268-284-268-100 0-173 38-225 108-63 84-76 264-76 443 0 157 24 272 72 345s122 109 225 109" id="J" />
+      <path fill="#333" d="M552-1102c254-4 435 134 435 383v469c1 103 15 180 43 233V0H738c-13-26-23-58-29-97C639-19 548 20 436 20 238 20 64-113 68-304c5-258 212-357 496-357h133c11-137-29-227-160-227-90 0-156 45-156 131H92c15-231 213-342 460-345zM357-325c0 76 61 124 142 124 88 0 168-45 198-105v-186H589c-152 2-232 51-232 167" id="K" />
+      <path fill="#333" d="M663-1102c295 0 423 246 423 571 0 313-131 551-421 551-117 0-211-45-281-135L371 0H111v-1536h289v551c67-78 154-117 263-117zm-71 889c164 0 209-139 205-339-3-189-44-315-207-315-92 0-155 38-190 113v427c35 76 99 114 192 114" id="L" />
+      <path fill="#333" d="M523-759l182-323h309L706-552 1027 0H717L524-340 332 0H21l321-552-307-530h310" id="M" />
+      <path fill="#333" d="M515-409l200-673h310L590 168c-66 202-236 321-472 250V199c127 7 198-15 230-107l34-89L3-1082h311" id="N" />
+      <path fill="#333" d="M416 0H126v-1536h290V0" id="O" />
+      <path fill="#333" d="M355-556c-2 203 30 338 206 343 102 3 181-63 182-161h271C1001-128 821 17 566 20 242 24 66-212 66-554c0-320 184-548 498-548 262 0 451 167 450 423H743c-1-108-75-193-184-189-162 6-202 123-204 312" id="P" />
+      <g id="i">
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,0,0)" xlink:href="#J" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,43.61979166666667,0)" xlink:href="#K" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,79.36197916666667,0)" xlink:href="#G" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,103.67838541666667,0)" xlink:href="#L" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,141.2109375,0)" xlink:href="#E" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,178.22265625,0)" xlink:href="#M" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,212.14192708333334,0)" xlink:href="#N" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,245.60546875,0)" xlink:href="#O" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,263.28125,0)" xlink:href="#C" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,280.95703125,0)" xlink:href="#P" />
+      </g>
+      <g id="j">
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,0,0)" xlink:href="#F" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,45.41015625,0)" xlink:href="#G" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,68.5546875,0)" xlink:href="#E" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,106.24999999999999,0)" xlink:href="#H" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,143.5546875,0)" xlink:href="#I" />
+      </g>
+      <path fill="#333" d="M658-217c127 0 227-49 227-165 0-57-21-98-60-130-79-64-370-142-463-196-162-95-248-210-248-361 0-280 246-403 537-407 213-3 383 84 467 216 45 69 68 147 68 234H886c0-139-96-211-240-211-129 0-232 55-232 169 0 47 24 87 72 119s117 62 210 90c171 51 295 115 373 191s117 171 117 284c-2 272-237 411-528 404C331 13 78-135 69-458h301c0 161 96 241 288 241" id="Q" />
+      <path fill="#333" d="M488 20C204 20 66-234 66-549c0-305 140-551 424-553 105 0 192 39 261 118v-552h290V0H780l-14-115C694-25 601 20 488 20zM355-528c0 176 51 314 207 314 89 0 152-38 189-113v-427c-36-75-98-113-187-113-139 0-209 113-209 339" id="R" />
+      <path fill="#333" d="M1031-175C952-60 797 20 609 20 287 20 60-206 72-543c12-330 180-559 505-559 309 0 482 214 477 537v118H365c15 134 115 234 263 234 111 0 198-40 261-121zM770-644c5-139-62-226-194-224-130 1-191 97-208 224h402" id="S" />
+      <g id="k">
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,0,0)" xlink:href="#Q" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,40.98307291666667,0)" xlink:href="#C" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,58.65885416666667,0)" xlink:href="#R" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,96.22395833333334,0)" xlink:href="#S" />
+      </g>
+      <path fill="#333" d="M750-685c-1-124-48-182-173-182-85 0-146 33-184 98V0H104v-1536h289v572c77-92 173-138 289-138 235 0 357 136 357 409V0H750v-685" id="T" />
+      <g id="l">
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,0,0)" xlink:href="#J" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,43.61979166666667,0)" xlink:href="#T" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,80.92447916666667,0)" xlink:href="#K" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,116.66666666666667,0)" xlink:href="#C" />
+        <use transform="matrix(0.032552083333333336,0,0,0.032552083333333336,134.34244791666669,0)" xlink:href="#D" />
+      </g>
+      <radialGradient gradientUnits="userSpaceOnUse" id="m" fx="427" fy="790" cx="427" cy="790" r="107.83">
+        <stop offset="0%" stop-color="#b594b7" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#b391b5" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#b18fb3" />
+      </radialGradient>
+      <radialGradient gradientUnits="userSpaceOnUse" id="n" fx="167" fy="790" cx="167" cy="790" r="107.83">
+        <stop offset="0%" stop-color="#4fc3a4" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#49c1a1" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#48bf9f" />
+      </radialGradient>
+      <radialGradient gradientUnits="userSpaceOnUse" id="o" fx="427" fy="520" cx="427" cy="520" r="107.83">
+        <stop offset="0%" stop-color="#4fc3a4" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#49c1a1" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#48bf9f" />
+      </radialGradient>
+      <radialGradient gradientUnits="userSpaceOnUse" id="p" fx="789.5" fy="795" cx="789.5" cy="795" r="107.83">
+        <stop offset="0%" stop-color="#40a9de" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#3aa6dd" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#39a4da" />
+      </radialGradient>
+      <radialGradient gradientUnits="userSpaceOnUse" id="q" fx="787" fy="1080" cx="787" cy="1080" r="107.83">
+        <stop offset="0%" stop-color="#cb343f" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#c92d39" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#c62c38" />
+      </radialGradient>
+      <radialGradient gradientUnits="userSpaceOnUse" id="r" fx="787" fy="520" cx="787" cy="520" r="107.83">
+        <stop offset="0%" stop-color="#4fc3a4" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#49c1a1" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#48bf9f" />
+      </radialGradient>
+      <radialGradient gradientUnits="userSpaceOnUse" id="s" fx="1147" fy="520" cx="1147" cy="520" r="107.83">
+        <stop offset="0%" stop-color="#ffedac" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#ffeca9" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#fce9a7" />
+      </radialGradient>
+      <radialGradient gradientUnits="userSpaceOnUse" id="t" fx="1152" fy="795" cx="1152" cy="795" r="107.83">
+        <stop offset="0%" stop-color="#40a9de" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#3aa6dd" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#39a4da" />
+      </radialGradient>
+      <radialGradient gradientUnits="userSpaceOnUse" id="u" fx="1514.5" fy="520" cx="1514.5" cy="520" r="107.83">
+        <stop offset="0%" stop-color="#ffedac" stop-opacity=".4" />
+        <stop offset="60%" stop-color="#ffeca9" stop-opacity=".6" />
+        <stop offset="100%" stop-color="#fce9a7" />
+      </radialGradient>
+    </defs>
+  </g>
+</svg>
