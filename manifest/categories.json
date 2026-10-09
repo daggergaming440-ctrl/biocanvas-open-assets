@@ -1,0 +1,425 @@
+[
+  {
+    "id": "cat-membranes",
+    "name": "Membranes",
+    "description": "Membranes scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-cell-membranes",
+        "name": "Cell Membranes"
+      },
+      {
+        "id": "sub-phospholipid-bilayers",
+        "name": "Phospholipid Bilayers"
+      },
+      {
+        "id": "sub-phospholipid-bilayer-membranes",
+        "name": "Phospholipid Bilayer Membranes"
+      }
+    ]
+  },
+  {
+    "id": "cat-nucleic-acids",
+    "name": "Nucleic Acids",
+    "description": "Nucleic Acids scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-epigenetics",
+        "name": "Epigenetics"
+      },
+      {
+        "id": "sub-dna",
+        "name": "DNA"
+      },
+      {
+        "id": "sub-rna",
+        "name": "RNA"
+      },
+      {
+        "id": "sub-genetics",
+        "name": "Genetics"
+      },
+      {
+        "id": "sub-genomics",
+        "name": "Genomics"
+      },
+      {
+        "id": "sub-plasmids",
+        "name": "Plasmids"
+      }
+    ]
+  },
+  {
+    "id": "cat-lipids-and-carbs",
+    "name": "Lipids and Carbs",
+    "description": "Lipids and Carbs scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-monomers-and-polymers",
+        "name": "Monomers and Polymers"
+      },
+      {
+        "id": "sub-glycans",
+        "name": "Glycans"
+      },
+      {
+        "id": "sub-lipids",
+        "name": "Lipids"
+      }
+    ]
+  },
+  {
+    "id": "cat-agriculture",
+    "name": "Agriculture",
+    "description": "Agriculture scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-crops---farming",
+        "name": "Crops & Farming"
+      },
+      {
+        "id": "sub-agricultural-machinery---soil",
+        "name": "Agricultural Machinery & Soil"
+      }
+    ]
+  },
+  {
+    "id": "cat-cell-types",
+    "name": "Cell Types",
+    "description": "Cell Types scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-generic-cells",
+        "name": "Generic Cells"
+      },
+      {
+        "id": "sub-immune---blood-cells",
+        "name": "Immune & Blood Cells"
+      },
+      {
+        "id": "sub-neural-cells",
+        "name": "Neural Cells"
+      },
+      {
+        "id": "sub-stromal-cells",
+        "name": "Stromal Cells"
+      },
+      {
+        "id": "sub-muscle-cells",
+        "name": "Muscle Cells"
+      },
+      {
+        "id": "sub-reproductive-cells",
+        "name": "Reproductive Cells"
+      },
+      {
+        "id": "sub-epithelial-cells",
+        "name": "Epithelial Cells"
+      },
+      {
+        "id": "sub-secretory-cells",
+        "name": "Secretory Cells"
+      },
+      {
+        "id": "sub-mitosis-and-meiosis",
+        "name": "Mitosis and Meiosis"
+      },
+      {
+        "id": "sub-immune-and-blood-cells",
+        "name": "Immune and Blood Cells"
+      }
+    ]
+  },
+  {
+    "id": "cat-cell-structures",
+    "name": "Cell Structures",
+    "description": "Cell Structures scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-cell-organelles",
+        "name": "Cell Organelles"
+      },
+      {
+        "id": "sub-intracellular-components",
+        "name": "Intracellular Components"
+      },
+      {
+        "id": "sub-cytoskeleton",
+        "name": "Cytoskeleton"
+      },
+      {
+        "id": "sub-extracellular-matrix--ecm-",
+        "name": "Extracellular Matrix (ECM)"
+      }
+    ]
+  },
+  {
+    "id": "cat-proteins",
+    "name": "Proteins",
+    "description": "Proteins scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-antibodies",
+        "name": "Antibodies"
+      },
+      {
+        "id": "sub-enzymes",
+        "name": "Enzymes"
+      },
+      {
+        "id": "sub-receptors---channels",
+        "name": "Receptors & Channels"
+      },
+      {
+        "id": "sub-amino-acids",
+        "name": "Amino Acids"
+      },
+      {
+        "id": "sub-transporters",
+        "name": "Transporters"
+      },
+      {
+        "id": "sub-peptides",
+        "name": "Peptides"
+      },
+      {
+        "id": "sub-generic-proteins",
+        "name": "Generic Proteins"
+      },
+      {
+        "id": "sub-receptors-and-ligands",
+        "name": "Receptors and Ligands"
+      }
+    ]
+  },
+  {
+    "id": "cat-graphs-and-symbols",
+    "name": "Graphs and Symbols",
+    "description": "Graphs and Symbols scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-lists-and-numbers",
+        "name": "Lists and Numbers"
+      },
+      {
+        "id": "sub-graph-icons",
+        "name": "Graph Icons"
+      },
+      {
+        "id": "sub-symbols---signs",
+        "name": "Symbols & Signs"
+      },
+      {
+        "id": "sub-symbols-and-signs",
+        "name": "Symbols and Signs"
+      }
+    ]
+  },
+  {
+    "id": "cat-human-anatomy",
+    "name": "Human Anatomy",
+    "description": "Human Anatomy scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-circulatory---cardiovascular",
+        "name": "Circulatory & Cardiovascular"
+      },
+      {
+        "id": "sub-nervous-system",
+        "name": "Nervous System"
+      },
+      {
+        "id": "sub-respiratory-system",
+        "name": "Respiratory System"
+      },
+      {
+        "id": "sub-digestive-system",
+        "name": "Digestive System"
+      },
+      {
+        "id": "sub-urinary-system",
+        "name": "Urinary System"
+      },
+      {
+        "id": "sub-lymphatic---immune-system",
+        "name": "Lymphatic & Immune System"
+      },
+      {
+        "id": "sub-muscular-system",
+        "name": "Muscular System"
+      },
+      {
+        "id": "sub-skeletal-system",
+        "name": "Skeletal System"
+      },
+      {
+        "id": "sub-reproductive-system",
+        "name": "Reproductive System"
+      },
+      {
+        "id": "sub-endocrine-system",
+        "name": "Endocrine System"
+      },
+      {
+        "id": "sub-skin",
+        "name": "Skin"
+      },
+      {
+        "id": "sub-human-figure",
+        "name": "Human Figure"
+      },
+      {
+        "id": "sub-head-and-neuroanatomy",
+        "name": "Head and Neuroanatomy"
+      },
+      {
+        "id": "sub-cardiovascular-system",
+        "name": "Cardiovascular System"
+      }
+    ]
+  },
+  {
+    "id": "cat-lab-and-objects",
+    "name": "Lab and Objects",
+    "description": "Lab and Objects scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-other-items",
+        "name": "Other Items"
+      },
+      {
+        "id": "sub-microscope-and-optics",
+        "name": "Microscope and Optics"
+      },
+      {
+        "id": "sub-machinery-and-tech",
+        "name": "Machinery and Tech"
+      },
+      {
+        "id": "sub-beakers--bottles---flasks",
+        "name": "Beakers, Bottles & Flasks"
+      },
+      {
+        "id": "sub-medical-equipment",
+        "name": "Medical Equipment"
+      },
+      {
+        "id": "sub-tubes-and-vials",
+        "name": "Tubes and Vials"
+      },
+      {
+        "id": "sub-tools",
+        "name": "Tools"
+      },
+      {
+        "id": "sub-wells--plates--and-cultures",
+        "name": "Wells, Plates, and Cultures"
+      },
+      {
+        "id": "sub-environment-and-ecology",
+        "name": "Environment and Ecology"
+      },
+      {
+        "id": "sub-food",
+        "name": "Food"
+      },
+      {
+        "id": "sub-animal-housing",
+        "name": "Animal Housing"
+      }
+    ]
+  },
+  {
+    "id": "cat-chemistry",
+    "name": "Chemistry",
+    "description": "Chemistry scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-structural-formulas",
+        "name": "Structural Formulas"
+      },
+      {
+        "id": "sub-biochemistry",
+        "name": "Biochemistry"
+      },
+      {
+        "id": "sub-nanoparticles",
+        "name": "Nanoparticles"
+      }
+    ]
+  },
+  {
+    "id": "cat-species",
+    "name": "Species",
+    "description": "Species scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-rodents",
+        "name": "Rodents"
+      },
+      {
+        "id": "sub-fungi",
+        "name": "Fungi"
+      },
+      {
+        "id": "sub-bacteria",
+        "name": "Bacteria"
+      },
+      {
+        "id": "sub-viruses",
+        "name": "Viruses"
+      },
+      {
+        "id": "sub-reptiles",
+        "name": "Reptiles"
+      },
+      {
+        "id": "sub-mammals",
+        "name": "Mammals"
+      },
+      {
+        "id": "sub-other-organisms",
+        "name": "Other Organisms"
+      },
+      {
+        "id": "sub-arthropods",
+        "name": "Arthropods"
+      },
+      {
+        "id": "sub-birds",
+        "name": "Birds"
+      },
+      {
+        "id": "sub-fish",
+        "name": "Fish"
+      },
+      {
+        "id": "sub-amphibians",
+        "name": "Amphibians"
+      },
+      {
+        "id": "sub-plants",
+        "name": "Plants"
+      },
+      {
+        "id": "sub-worms",
+        "name": "Worms"
+      }
+    ]
+  },
+  {
+    "id": "cat-epithelium",
+    "name": "Epithelium",
+    "description": "Epithelium scientific taxonomy",
+    "subcategories": [
+      {
+        "id": "sub-tissues",
+        "name": "Tissues"
+      },
+      {
+        "id": "sub-human-tissue",
+        "name": "Human Tissue"
+      }
+    ]
+  }
+]
