@@ -1,5 +1,16 @@
 [
   {
+    "id": "bcs_bioicon_0000",
+    "name": "Pytorch",
+    "category": "Graphs and Symbols",
+    "subcategory": "Graph Icons",
+    "description": "Vector illustration from Bioicons (Machine_Learning)",
+    "path": "assets/graphs-and-symbols/graph-icons/bioicons_bsd_PyTorch.svg",
+    "source": "Bioicons",
+    "license": "BSD",
+    "creator": "Facebook"
+  },
+  {
     "id": "bcs_bioicon_0001",
     "name": "Tensorflow",
     "category": "Graphs and Symbols",
