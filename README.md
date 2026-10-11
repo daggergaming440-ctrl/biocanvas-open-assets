@@ -1,6 +1,5 @@
 # 
 
-Official open-source scientific illustration and vector library organized strictly into the 
 Total Indexed SVG Assets: **19,252**
 
 ## Official Categories & Subcategories Breakdown
